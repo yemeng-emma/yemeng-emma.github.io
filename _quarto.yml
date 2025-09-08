@@ -1,0 +1,91 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Meng Ye"
+  bread-crumbs: false
+  navbar:
+    search: true
+    left:
+     - href: cv.qmd
+       text: CV
+       
+     - text: Research
+       menu: 
+        - text: Publications
+          file: research/publication.qmd
+        - text: Research projects
+          file: research/pipeline.qmd
+        - text: Presentations and Talks
+          file: research/talks.qmd
+
+     - text: Teaching
+       menu: 
+        - text: Courses Taught
+          file: teaching/course.qmd
+        - text: Teaching Evaluation
+          file: teaching/evaluation.qmd
+
+
+     - href: awards.qmd
+       text: Awards and Grants
+ 
+     - href: services.qmd
+       text: Services
+          
+     - text: About
+       file: about.qmd
+       
+    tools:
+     - icon: github
+       href: https://github.com/yemeng-emma/bigdata4publicgood 
+       aria-label: github
+
+     - icon: linkedin
+       href: https://www.linkedin.com/in/meng-ye-b626a439/
+       aria-label: linkedin
+
+     - icon: mortarboard
+       href: https://scholar.google.com/citations?user=w8lJ-jEAAAAJ&hl=en
+       aria-label: google scholar
+       
+     - icon: twitter
+       href: https://x.com/MengYe_Emma
+       aria-label: X
+       
+     - icon: envelope
+       href: "mailto:mye2@gsu.edu"
+       aria-label: email
+       
+
+  sidebar:
+     - title: "Research"
+       style: "docked"
+       search: false
+       background: light
+       contents:
+         - text: "1. Publications"
+           file: research/publication.qmd
+         - text: "2. Research Projects"
+           file: research/pipeline.qmd
+         - text: "3. Presentations and Talks"
+           file: research/talks.qmd
+           
+     - title: "Teaching"
+       style: "docked"
+       background: light
+       contents:
+        - text: "1. Courses Taught"
+          file: teaching/course.qmd
+        - text: "2. Teaching Evaluation"
+          file: teaching/evaluation.qmd
+
+format:
+  html:
+    theme: united
+    css: styles.css
+    toc: true
+
+
+

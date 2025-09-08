@@ -1,0 +1,40 @@
+---
+toc: false
+---
+
+```{=html}
+<style>
+
+/* Photo only: float left with bleed and spacing */
+.headshot {
+  float: left;
+  width: 297px;            /* 220px × 1.35 */
+  height: auto;
+  margin: 4em 2rem 2rem 0; /* top: 4 lines, right + bottom spacing */
+  border-radius: 8px;
+}
+
+/* Apply same top bleed to the greeting line */
+.greeting {
+  display: block;
+  margin-top: 4em;         /* same as photo top */
+  margin-bottom: 1rem;
+}
+
+/* Remove underline but preserve theme link color */
+main a {
+  text-decoration: none !important;
+}
+</style>
+```
+<img src="mengye.jpg" alt="Meng Ye headshot" class="headshot"/>
+
+[Hello! Thank you for visiting my website.]{.greeting}
+
+I am Meng Ye, a Ph.D. Candidate in Public Policy at [the Andrew Young School of Policy Studies](https://aysps.gsu.edu/phd-student/ye-meng/) at Georgia State University. My research examines the roles of nonprofits amid blurring sector boundaries, including nonprofit commercialization, government retrenchment, and cross-sector collaboration. I also study nonprofit finance and regulations.
+
+My work has appeared in *Public Performance & Management Review*, [*Journal of Asian Public Policy*](https://www.tandfonline.com/doi/abs/10.1080/17516234.2020.1824263), *Nonprofit Policy Forum*, and *Academy of Management Proceedings*, among others. My research has been recognized by the [AOM PNP Section Best Conference Paper Award](https://www.linkedin.com/posts/rebeccatekula_aom2023-activity-7079936050055245824-ZdjA?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAgcY3oBCh29bxUuNTZETfJaqIzYHSXe8Vc) and the ARNOVA NPPFM Section Woods Bowman Student Award, and supported by multiple academic grants.
+
+I am grateful for the mentorship of a vibrant research community, including the [APPAM Equity & Inclusion Fellowship](https://www.appam.org/about-appam/awards/2022-equity-inclusion-fellowship-student-recipients/), ARNOVA Doctoral Fellows, and NML-ESS Nonprofit Early Scholars Fellowship, and I strive to give back by serving as [Editorial Manager of the *International Journal of Public Administration*](https://www.tandfonline.com/journals/lpad20/about-this-journal#editorial-board), as a member of the ARNOVA Development Committee, and as a peer reviewer for several journals.
+
+Before pursuing my Ph.D., I spent six years working in think tanks, advising organizations such as the [Asian Development Bank](https://www.adb.org/projects/45514-001/main) and leading research and consultancy projects funded by the Ford Foundation and the Gates Foundation. I take pride in my diverse disciplinary background. As a lawyer turned statistics enthusiast, I strive to combine the richness of stories and contextual detail with the rigor and generalizability of systematic analysis to help solve the pressing challenges of our shared communities.

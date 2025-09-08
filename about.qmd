@@ -1,0 +1,15 @@
+---
+title: "About me"
+---
+
+## Education
+
+-   Georgia State University
+
+### Instruction on how to use the course materiterals
+
+Please cite properly cite this site when using or adapting the materials.
+
+### Contact
+
+I can be reached at [mye2\@gsu.edu](mailto:csearcy@gsu.edu){.email} for questions and collaboration

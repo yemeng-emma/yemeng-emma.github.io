@@ -1,0 +1,22 @@
+---
+title: Research Pipelines
+---
+
+1. Nonprofit amid Blurring Sector Boundaries
+
+- Dissertation
+
+- Cross sector collaboration 
+
+- Government retrenchment and service spin out
+
+2. Nonprofit Finance
+
+- RD
+
+- IV 
+
+3. Nonprofit regulation
+
+4. Causal Inference
+
