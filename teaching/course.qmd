@@ -1,9 +1,29 @@
 ---
-title: "About the Big Data for Public Good Open Course"
+title: "Courses Taught"
 ---
 
-## About the course
+- ***PMAP 3210 Introduction to Nonprofits***
 
-## Instruction on how to use the course materiterals
+    Course Designer and Instructor, Summer 2023, **online synchronous**
 
-## Contact
+    Guest Lecturer on “Financial Management”, Spring 2023, in person
+
+- ***PMAP 3231 Nonprofit Leadership and Management***
+
+    Course Designer and Instructor, Fall 2024, in person
+
+- ***PMAP 8511 Big Data for Public Good***
+
+    Designed and built the course website with Quarto as part of GSU’s big data initiative as a [template/master course on GitHub](<https://aysps.github.io/bigdata4publicgood/>)
+
+***PHPB 9310 Public Health Finance and Management***
+
+            Guest lecturer on “Nonprofit Finance”, Spring 2025, in person
+
+***PMAP Data Visualization Micro-Credential Workshop***
+
+Teaching Assistant, Sessions I & II, February & April 2024, in person 
+
+***PSCI 491 Chinese Politics & Policy – Montana State University***
+
+Guest lecturer on “Nonprofit Management and Policy in China”, Spring 2025, hybrid synchronous
