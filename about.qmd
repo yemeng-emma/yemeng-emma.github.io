@@ -1,22 +1,75 @@
-# About Me
+---
+title: "About Me"
+format: html
+---
 
-I spent my years before college in Shenyang, the North Eastern China city of Shenyang where my parents and I were born. My family and I are affiliated with the ethnic group of Manchu (满族). Before college, I never travelled outside the province.I was trained to be a lawyer but I find my enthusiastic not in drafting legal documents for international trade and cross-country IPOs, rather amazed at the diversity of the nonprofit organizations, and public policy research and advocacy and can bring systematic social change. From 2013 to 2016, I interviews 70 NGOs across China. I also had the experience of policy con
+I was trained to be a lawyer in college, and my experience interning at a top law firm on cross-border trade and IPOs enabled me to realize that drafting contracts and negotiating deals were not where my passion lay. An Erasmus Mundus scholarship took me to University College Dublin, where I studied charity law with Professor Oonagh Breen. That experience opened the door to the nonprofit world and public policy.
 
+Realizing that I wanted my work to contribute more directly to solving social challenges, I chose to work in nonprofit think tanks. These experiences solidified my commitment to the nonprofit sector. I had the opportunity to collaborate with major international governmental and philanthropic organizations such as the United Nations, the Asian Development Bank, the Gates Foundation, and the Ford Foundation, while also conducting fieldwork and interviewing 70 grassroots NGOs across China between 2013 and 2016. That was when I was truly amazed by the diversity of the sector and the breadth of lives I could touch through my work. It was also deeply fulfilling to help leverage systematic change by providing policy advice to the National People’s Congress and local policymakers. My rich practical experience continues to fuel my motivation for conducting research in public and nonprofit management.
 
 ## Education
 
--   Georgia State University
+- **Georgia State University (Andrew Young School)**<br>
+  Ph.D. in Public Policy, 2026 (expected)  
 
-## Work Experience 
-- CPRI
-- 
+  * Dissertation: *Nonprofit Commercialization: Three Essays on Its Implications for Social Mission, Access Disparities, and Public Perceptions*  
+  * Committee: Janelle Kerlin (Chair), Jason Coupet, Lewis Faulk, Chao Guo, Andrew Heiss  
 
-## Qualifications
+- **University College Dublin**,<br>
+Master of Laws (LLM) in Commercial Law, 2012  
 
-- lawyer
+- **Beijing Normal University**  <br>
+  Master of Laws (LLM) in International Economic Law, 2011  <br>
+  Bachelor of Laws and English Literature (Outstanding Graduate), 2009  
 
-- translator
+## Work Experience
+
+- **Emory University Vulnerability and the Human Condition Initiative**  <br>
+  Visiting Scholar, 08/2018 – 01/2020 
+  
+  * Applied vulnerability theory framework to study interdependence of government and NGOs in China.  
+  * Audited courses in U.S. income tax law and vulnerability theory, connecting legal and public policy perspectives.  
+  
+- **China Philanthropy Research Institute**  <br>
+  Deputy Director of the Center for Charity Law, 03/2015 – 12/2019  
+  
+  *	Provided research and consultancy support for the National People's Congress and the Ministry of Civil Affairs and local policy makers in Beijing and Yunnan. 
+  *	Conducted research projects funded by both domestic and international organizations such as the Ford Foundation, the Gates Foundation and the Asia Foundation.
+  *	Interviewed grassroots NGOs and local regulators across the country regarding the management and regulation of nonprofit organizations.
+  *	Led nonprofit education endeavors, developed practical guidance, toolkits, social media platforms and MOOCs on China’s Charity Law and Overseas NGO Law.
+
+- **China Law Development Consultants**  <br>
+  Research Assistant to President, 03/2013 – 03/2015 
+  
+  * Conducted comparative research on nonprofit policies and laws in the U.S., UK, Australia, Germany, and Japan.  
+  * Drafted bilingual reports on the state of Chinese NPOs and proposed reforms for the National Development and Reform Commission.  
+  * Conducted nationwide field research and stakeholder interviews (NGOs, scholars, officials).  
+  * Contributed to an Asian Development Bank project on reforming China’s nonprofit regulatory system.  
+
+## Consultancy and Data Projects
+
+- **National Rapporteur (China)** for the International Academy of Comparative Law project *The Social Enterprise: A New Form of the Business Enterprise?*, 2022–2023  
+
+- **Participating Team Member**, *Causal Inference for Social Impact Lab Data Challenge*, Center for Advanced Study in the Behavioral Sciences (CASBS), Stanford University, 2022  
+
+- **Consulting expert and drafter**, *Tax Policy to Promote the Sustainable Development of the Charitable Sector in China*, Shanghai Academy of Contemporary Philanthropy Research Center, 2021  
+
+- **Consulting expert**, *Regulation on the Promotion of Philanthropy in Yunnan Province*, Yunnan Civil Affairs Bureau, 2018–2019  
+
+- **Project leader**, *Several Provisions on the Promotion of Philanthropy in Beijing*, Beijing Civil Affairs Bureau, 2017–2018  
+
+- **Team member**, *Expert Draft of the Charity Law and Implementing Policies*, for the National People’s Congress and Ministry of Civil Affairs, 2015–2017  
+
+- **Team member and report drafter**, *Management System and Legislative Mechanism for Nonprofit Organizations* (TA 7855-PRC), Asian Development Bank/NDRC, 2013–2016  
+
+## Qualifications and Skills
+
+- **Professional qualifications:** Licensed Lawyer in China (since 2017)  
+
+- **Programming and research:** R, Stata, Stan, Quarto, Python (basic), Qualtrics, Sawtooth Software  
+
+- **Languages:** Mandarin (native), English (proficient), French (basic)  
 
 ## Contact
 
-I can be reached at [mye2\@gsu.edu](mailto:csearcy@gsu.edu){.email} for questions and collaboration
+I can be reached at [mye2@gsu.edu](mailto:mye2@gsu.edu)  

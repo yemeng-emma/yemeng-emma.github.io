@@ -1,30 +1,45 @@
 ---
 title: "Publications"
-editor: visual
+format: html
 ---
 
-## Peer-reviewed Journal Articles
+## Peer-Reviewed Journal Articles
+- Kerlin, J., **Ye, M.**, & Hall, K. (2025). Do social enterprises fulfill their social promise? Comparing the quality outcomes of social care CICs with other sectors. (Forthcoming, *Public Performance & Management Review*). (**Co-first author with Kerlin**).
 
-PPMR paper 
+- Kerlin, J., **Ye, M.**, & Chen, W. (2023). A tax credit proposal for profit moderation and social mission maximization in long-term residential care businesses. *Nonprofit Policy Forum*, 14(1), 77–97.
 
-JAPP paper
+- Kerlin, J., **Ye, M.**, & Hall, K. (2023). Do social enterprises fulfill their social promise? Quality of social care CICs and other legal forms. [*Academy of Management Proceedings*](), 2023(1), 15284. (**2023 AOM PNP Best Conference Paper**).
 
-NPF paper
+- **Ye, M.** (2021). Building an enabling legal environment: Laws and policies on social enterprises in China. [*Journal of Asian Public Policy*](), 14(2), 182–199.
 
 ## Book Chapters
+- **Ye, M.** (2023). Social enterprise in China. In *The Social Enterprise: A New Form of the Business Enterprise?* (pp. 153–180). Intersentia Publishers.
 
-Encyclopedia
+- Kerlin, J. A., & **Ye, M.** (2023). Commercialism. In *Elgar Encyclopedia of Nonprofit Management, Leadership and Governance* (pp. 105–109). Edward Elgar Publishing.
 
-commercialism
+## Other Journal Articles
+- Kerlin, J., & **Ye, M.** (forthcoming). Social enterprise in Asia: A new legal form. *Asia Pacific Law Review.* (Book Review).
 
-social enterprise
+- Lu, E., Ma, L., **Ye, M.**, Shi, Y., Chen, G., Hawes, D., … & Wang, C. (2025). Reimagining the future of IJPA: A vision for 2025 and beyond. *International Journal of Public Administration, 1–4.* (Editorial).
 
-## Editorial 
+## Manuscripts R&R or Under Review
+- Hall, K., Kerlin, J., & **Ye, M.** (Revise & Resubmit). Government versus social enterprise: Comparing the quality of government-run and social enterprise spin-out organizations in English health and social care. *Journal of Social Policy*.
 
-IJPA
+- **Ye, M.**, & Heiss, A. (Under review). Enforcing boundaries: China’s Overseas NGO Law and operational constraints for global civil society. *Nonprofit and Voluntary Sector Quarterly*.
 
-## Book Review
+- Sun, J., Shi, Y., & **Ye, M.** (Under review). Unlocking the impact of Charity Law on commercialization of charitable organizations: Evidence from a quasi-experiment design. *Journal of Chinese Governance*.
 
-Asian Journal of comparative law
+## Work in Progress
+- **Ye, M.** (preparing for submission). How does commercialization impact nonprofit performance and service accessibility? Differentiating mission-related and unrelated earned income. (Selected for the **2025 NML-ESS Nonprofit Early Scholars Fellowship**).
 
+- **Ye, M.**, Lu, J., & Dong, Q. (preparing for submission). Factors driving nonprofit financial investment decisions and income: A panel data analysis.
 
+- Heiss, A., & **Ye, M.** (preparing for submission). Clarifying correlation and causation: A guide to modern quantitative causal inference in nonprofit studies. (**Equal authorship**)
+
+- **Ye, M.** (writing). Nonprofit commercialization in England’s health and social care: Impact on quality rating and the access disparity. (Selected for the **2025 ARNOVA Doctoral Seminar**).
+
+- **Ye, M.** (writing). How do individual donors respond to nonprofit commercialization and related context and framing: A conjoint survey experiment study.
+
+- Ke, L., & **Ye, M.** (writing). Does commercialization improve nonprofits’ financial health? A quasi-experimental design.
+
+- Heiss, A., & **Ye, M.** (writing). How does reduced reporting burden in 990-EZ impact nonprofits’ financial health? (**Equal authorship**)

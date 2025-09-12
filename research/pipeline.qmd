@@ -18,9 +18,9 @@ toc: false
 }
 </style>
 
-My research examines how public and nonprofit organizations adapt amid blurring sector boundaries, 
-government retrenchment, and shifting policy contexts. I organize my work into four research pipelines, 
-each addressing a critical aspect of nonprofit and public management.
+My research examines how public and nonprofit organizations adapt to rapidly changing institutional and financial environments. Across contexts of fiscal stress, government retrenchment, commercialization, and shrinking civil society space, I investigate the consequences of these pressures for organizational performance, accountability, and equity of access. This agenda is motivated by a central concern: as the boundaries between the public, nonprofit, and market sectors blur, how can organizations preserve their social missions while meeting rising demands with constrained resources?
+
+Methodologically, I draw on quasi-experimental designs, large-scale panel data analysis, mixed methods, and survey experiments. My work offers insights for policymakers and nonprofit leaders navigating the future of public service delivery, while contributing to theory in publicness, nonprofit accountability, and cross-sector relationships.
 
 ### <span class="pipeline-title">Pipeline 1<br>Nonprofit Commercialization and Performance Outcomes</span>
 
@@ -112,6 +112,9 @@ each addressing a critical aspect of nonprofit and public management.
 
 **4. A Tax Credit Proposal for Profit Moderation and Social Mission Maximization in Long-Term Residential Care Businesses**
 
-> Published, [*Nonprofit Policy Forum](https://www.degruyterbrill.com/document/doi/10.1515/npf-2022-0014/html)
+> Published at [*Nonprofit Policy Forum*](https://www.degruyterbrill.com/document/doi/10.1515/npf-2022-0014/html)
 
 - This policy brief proposes a tax credit mechanism to address abuse and neglect in for-profit long-term residential care. The design introduces four components—social financing, a sliding dividend cap, employee ownership, and restrictions on complex corporate structures—tied to eligibility for the credit. By altering the incentive structure that currently prioritizes profit maximization over care quality, the proposal offers a path to better align financial practices with social mission. The article contributes to debates on regulating for-profit providers while safeguarding vulnerable populations dependent on Medicare and Medicaid funding.
+
+### <span class="pipeline-title">Methodological Papers</span>
+

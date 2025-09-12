@@ -15,7 +15,7 @@ website:
        menu: 
         - text: Publications
           file: research/publication.qmd
-        - text: Research projects
+        - text: Research pipelines
           file: research/pipeline.qmd
         - text: Presentations and Talks
           file: research/talks.qmd
@@ -34,7 +34,7 @@ website:
      - href: services.qmd
        text: Services
           
-     - text: About
+     - text: About Me
        file: about.qmd
        
     tools:
@@ -67,7 +67,7 @@ website:
        contents:
          - text: "1. Publications"
            file: research/publication.qmd
-         - text: "2. Research Projects"
+         - text: "2. Research Pipelines"
            file: research/pipeline.qmd
          - text: "3. Presentations and Talks"
            file: research/talks.qmd
