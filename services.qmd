@@ -1,9 +1,41 @@
+---
+title: "Services"
+format: html
+---
 
 ## Service to Profession
-- place holer 1
-- place holder 2
 
+### **Editorial Positions**
 
-## Conference service
+- **International Journal of Public Administration**
+  - Editorial Manager (2023–present)  
+  - Editorial Assistant (2022–2023)<br>
+  
+  
+### **Academic Associations**
+- **ARNOVA** Development Committee Member (2024–present) <br>
+- **ASPA** Section on Nonprofits Award Committee (2022–2024)<br>
+  
+### **Peer Review**
+- Public Performance & Management Review  
+- Nonprofit Management & Leadership  
+- VOLUNTAS: International Journal of Voluntary and Nonprofit Organizations  
+- Social Enterprise Journal  
+- Chinese Public Administration Review  
+- Nonprofit Policy Forum  
+- Journal of Urban Affairs  
+- Journal of Muslim Philanthropy & Civil Society  
 
-## Service to industry
+### **Conference Volunteering**
+
+  - Paper Reviewer, AOM Annual Conference (9 papers, 2022–2024)  
+  - Panel Discussant, APPAM Fall Conference (2023)  
+  - Moderator and Volunteer, SECoPA Conference (2023)  
+  - Panel Moderator, AOM Annual Conference (2023)  
+  - Panel Moderator, ASPA Annual Conference (2022)  
+  - Conference Volunteer, ARNOVA 50th Annual Conference (2021)  
+
+## Service to Community
+
+- Pro Bono Policy Advising – China Charity Alliance (since 2023)  
+- Pro Bono Data Analysis and Visualization – China Foundation Center (since 2022)  

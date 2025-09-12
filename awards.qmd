@@ -1,4 +1,7 @@
-
+---
+title: "Academic Honors"
+format: html
+---
 
 ## Awards  
 
