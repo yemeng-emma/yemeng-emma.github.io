@@ -36,8 +36,9 @@ format: html
 
 
 <div class="plaque-container">
-  <p class="plaque-text">AOM PNP Best Conference Paper Plaque</p>
-  <img src="aom.jpg" width="48%">
+  <img src="ays.jpg" width="86%">
+  
+  <p class="plaque-text">2025 Andrew Young School Honors Day</p>
 </div>
 
 <style>
@@ -48,7 +49,7 @@ format: html
 
 .plaque-text {
   font-size: 1em;           /* adjust font size */
-  color: #CCCCCC;           /* gray color */
+  color: #999999;           /* gray color */
   margin-bottom: 1em;       /* space between text and image */
 }
 </style>

@@ -8,6 +8,9 @@ website:
   navbar:
     search: true
     left:
+     - text: "Home"
+       href: index.qmd
+       
      - href: cv.qmd
        text: CV
        
