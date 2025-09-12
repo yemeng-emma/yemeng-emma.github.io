@@ -1,0 +1,763 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.4.553">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+
+<title>Meng Ye - Research Pipelines</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+</style>
+
+
+<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../">
+<script src="../site_libs/quarto-html/quarto.js"></script>
+<script src="../site_libs/quarto-html/popper.min.js"></script>
+<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script id="quarto-search-options" type="application/json">{
+  "location": "navbar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "end",
+  "type": "overlay",
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "show-item-context": false,
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
+  }
+}</script>
+
+
+<link rel="stylesheet" href="../styles.css">
+</head>
+
+<body class="nav-sidebar docked nav-fixed fullcontent">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
+      <div class="navbar-container container-fluid">
+      <div class="navbar-brand-container mx-auto">
+    <a class="navbar-brand" href="../index.html">
+    <span class="navbar-title">Meng Ye</span>
+    </a>
+  </div>
+            <div id="quarto-search" class="" title="Search"></div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+  <span class="navbar-toggler-icon"></span>
+</button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll me-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="../index.html"> 
+<span class="menu-text">Home</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../cv.html"> 
+<span class="menu-text">CV</span></a>
+  </li>  
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-research" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">Research</span>
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-research">    
+        <li>
+    <a class="dropdown-item" href="../research/publication.html">
+ <span class="dropdown-text">Publications</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../research/pipeline.html">
+ <span class="dropdown-text">Research Pipelines</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../research/talks.html">
+ <span class="dropdown-text">Presentations and Talks</span></a>
+  </li>  
+    </ul>
+  </li>
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-teaching" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">Teaching</span>
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-teaching">    
+        <li>
+    <a class="dropdown-item" href="../teaching/course.html">
+ <span class="dropdown-text">Courses Taught</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../teaching/evaluation.html">
+ <span class="dropdown-text">Teaching Evaluation</span></a>
+  </li>  
+    </ul>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" href="../awards.html"> 
+<span class="menu-text">Awards and Grants</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../services.html"> 
+<span class="menu-text">Services</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../about.html"> 
+<span class="menu-text">About Me</span></a>
+  </li>  
+</ul>
+          </div> <!-- /navcollapse -->
+          <div class="quarto-navbar-tools tools-wide">
+    <a href="https://github.com/yemeng-emma/bigdata4publicgood" title="" class="quarto-navigation-tool px-1" aria-label="github"><i class="bi bi-github"></i></a>
+    <a href="https://www.linkedin.com/in/meng-ye-b626a439/" title="" class="quarto-navigation-tool px-1" aria-label="linkedin"><i class="bi bi-linkedin"></i></a>
+    <a href="https://scholar.google.com/citations?user=w8lJ-jEAAAAJ&amp;hl=en" title="" class="quarto-navigation-tool px-1" aria-label="google scholar"><i class="bi bi-mortarboard"></i></a>
+    <a href="https://x.com/MengYe_Emma" title="" class="quarto-navigation-tool px-1" aria-label="X"><i class="bi bi-twitter"></i></a>
+    <a href="mailto:mye2@gsu.edu" title="" class="quarto-navigation-tool px-1" aria-label="email"><i class="bi bi-envelope"></i></a>
+</div>
+      </div> <!-- /container-fluid -->
+    </nav>
+  <nav class="quarto-secondary-nav">
+    <div class="container-fluid d-flex">
+      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+        <i class="bi bi-layout-text-sidebar-reverse"></i>
+      </button>
+        <a class="flex-grow-1 no-decor" role="button" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
+          <h1 class="quarto-secondary-nav-title">Research Pipelines</h1>
+        </a>     
+    </div>
+  </nav>
+</header>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<!-- sidebar -->
+  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation docked overflow-auto">
+    <div class="sidebar-menu-container"> 
+    <ul class="list-unstyled mt-1">
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../research/publication.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">1. Publications</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../research/pipeline.html" class="sidebar-item-text sidebar-link active">
+ <span class="menu-text">2. Research Pipelines</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../research/talks.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">3. Presentations and Talks</span></a>
+  </div>
+</li>
+    </ul>
+    </div>
+</nav>
+<div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
+<!-- margin-sidebar -->
+    
+<!-- main -->
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title d-none d-lg-block">Research Pipelines</h1>
+</div>
+
+
+
+<div class="quarto-title-meta">
+
+    
+  
+    
+  </div>
+  
+
+
+</header>
+
+
+<style>
+.subtitle {
+  font-size: 0.9em;
+  font-weight: bold;
+  display: block;
+  margin-top: 0.4em;
+}
+.pipeline-title {
+  color: #e95420; /* thematic highlight color */
+  font-weight: bold;
+}
+</style>
+<p>My research examines how public and nonprofit organizations adapt to rapidly changing institutional and financial environments. Across contexts of fiscal stress, government retrenchment, commercialization, and shrinking civil society space, I investigate the consequences of these pressures for organizational performance, accountability, and equity of access. This agenda is motivated by a central concern: as the boundaries between the public, nonprofit, and market sectors blur, how can organizations preserve their social missions while meeting rising demands with constrained resources?</p>
+<p>Methodologically, I draw on quasi-experimental designs, large-scale panel data analysis, mixed methods, and survey experiments. My work offers insights for policymakers and nonprofit leaders navigating the future of public service delivery, while contributing to theory in publicness, nonprofit accountability, and cross-sector relationships.</p>
+<section id="pipeline-1-nonprofit-commercialization-and-performance-outcomes" class="level3">
+<h3 class="anchored" data-anchor-id="pipeline-1-nonprofit-commercialization-and-performance-outcomes"><span class="pipeline-title">Pipeline 1<br>Nonprofit Commercialization and Performance Outcomes</span></h3>
+<blockquote class="blockquote">
+<p><strong>Dissertation: Nonprofit Commercialization – Three Essays on Its Implications for Social Mission, Access Disparities, and Public Perceptions</strong></p>
+</blockquote>
+<p><strong>1. How Does Commercialization Impact Nonprofit Performance and Service Accessibility? Differentiating Mission-Related and Unrelated Earned Income</strong></p>
+<blockquote class="blockquote">
+<p>Selected for 2025 NML-ESS Nonprofit Early Scholars Fellowship, preparing for submission</p>
+</blockquote>
+<ul>
+<li>This paper investigates how commercialization affects nonprofit performance and access to services by distinguishing between mission-related business income (RBI) and mission-unrelated business income (UBI). Using panel data from U.S. arts and culture nonprofits between 2010 and 2021, it applies hierarchical panel analysis to test how revenue strategies shape both overall attendance and free access ratios. Results indicate that RBI supports attendance but reduces free service provision, while UBI is associated with declines in both performance and accessibility. The study highlights the dual role of commercialization in strengthening financial sustainability while potentially narrowing equitable access.</li>
+</ul>
+<p><strong>2. Nonprofit Commercialization in England’s Health and Social Care: Impact on Quality Rating and the Access Disparity</strong></p>
+<blockquote class="blockquote">
+<p>Selected for 2025 ARNOVA Doctoral Seminar, writing</p>
+</blockquote>
+<ul>
+<li>Leveraging Care Quality Commission quality inspections, Charity Commission financial returns, and the Index of Multiple Deprivation, this study analyzes 47,000+ nonprofit service sites. Hierarchical ordered logit models assess how RBI and UBI relate to service quality and where providers operate. RBI is linked to higher quality ratings, whereas UBI correlates with lower performance. Both income types are associated with concentration in less deprived locales, raising access and equity concerns. The paper advances discussions of mission drift and accountability by connecting commercialization to measurable service outcomes and the socio-economic geography of provision.</li>
+</ul>
+<p><strong>3. How Do Individual Donors Respond to Nonprofit Commercialization and Related Context and Framing: A Conjoint Survey Experiment Study</strong></p>
+<blockquote class="blockquote">
+<p>Writing</p>
+</blockquote>
+<ul>
+<li>A nationally representative conjoint experiment (n ≈ 1,200) examines how donors evaluate nonprofits that vary in RBI/UBI levels across subsectors, financial conditions, and use-of-funds frames. Donors generally prefer organizations with lower commercialization, but support increases when commercial income is framed as necessary during financial stress and directed to core program delivery. The study provides causal evidence on how revenue strategies and framing shape donor preferences, informing fundraising practice and theory on social exchange and signaling in nonprofit contexts.</li>
+</ul>
+<hr>
+</section>
+<section id="pipeline-2-government-retrenchment-publicness-and-organizational-performance" class="level3">
+<h3 class="anchored" data-anchor-id="pipeline-2-government-retrenchment-publicness-and-organizational-performance"><span class="pipeline-title">Pipeline 2<br>Government Retrenchment, Publicness, and Organizational Performance</span></h3>
+<p><strong>1. Do Social Enterprises Fulfill their Social Mission? Comparing Quality across Ownership Models in Social Care</strong></p>
+<blockquote class="blockquote">
+<p>Forthcoming, <em>Public Performance &amp; Management Review</em></p>
+</blockquote>
+<ul>
+<li>Using English social care as a natural laboratory, we compare Community Interest Companies (CICs) with public, nonprofit, for-profit, and family-owned providers on Care Quality Commission ratings. CICs outperform for-profit providers and perform on par with nonprofits and public organizations, suggesting hybrids can balance commercial tools with social purpose. Findings inform policy debates on ownership design and the capacity of social enterprises to safeguard service quality in retrenching welfare states.</li>
+</ul>
+<p><strong>2. Government versus Social Enterprise: Comparing the Quality of Government-Run and Social Enterprise Spin-Out Organizations in English Health and Social Care</strong></p>
+<blockquote class="blockquote">
+<p>Revise &amp; Resubmit, <em>Journal of Social Policy</em></p>
+</blockquote>
+<ul>
+<li>We analyze services “spun out” from government into CICs and compare them to government-run and independently established CICs. Spin-outs score higher than government providers but below non-spin-out CICs. Framed by publicness theory, results highlight how organizational legacies and hybridization shape performance. The paper offers evidence for policymakers deciding when to retain direct provision versus devolving to social enterprises under fiscal and managerial pressures.</li>
+</ul>
+<p><strong>3. Joint Private Provision of Social Good: A Mixed-Method Study of Nonprofit-Business Collaboration</strong></p>
+<blockquote class="blockquote">
+<p>Preparing for Submission</p>
+</blockquote>
+<ul>
+<li>In China’s charitable trust sector, we combine analysis of 1,227 trust filings with 31 stakeholder interviews to examine nonprofit–business collaboration. Larger asset size, longer terms, and system maturation increase collaboration likelihood. Qualitative insights reveal motivations beyond efficiency—innovation and policy advocacy—alongside cases where collaboration was cost-ineffective. The study contributes to resource dependence and institutional design theories and provides rare empirical evidence on cross-sector partnerships in a non-Western context.</li>
+</ul>
+<hr>
+</section>
+<section id="pipeline-3-nonprofit-finance-accountability-and-sustainability" class="level3">
+<h3 class="anchored" data-anchor-id="pipeline-3-nonprofit-finance-accountability-and-sustainability"><span class="pipeline-title">Pipeline 3<br>Nonprofit Finance, Accountability, and Sustainability</span></h3>
+<p><strong>1. How Does Reduced Reporting Burden in 990-EZ Impact Nonprofits’ Financial Health?</strong></p>
+<blockquote class="blockquote">
+<p>Data Analysis</p>
+</blockquote>
+<ul>
+<li>Exploiting IRS revenue and asset thresholds in a regression discontinuity design (2012–2023), this study tests whether simplified 990-EZ reporting affects nonprofit survival and financial health. Findings indicate compliance cost relief may come with trade-offs for longer-term sustainability and transparency. The results speak to nonprofit accountability theory and current conversations on trust-based philanthropy, offering evidence on regulatory design and administrative burden.</li>
+</ul>
+<p><strong>2. Factors Driving Nonprofit Financial Investment Decisions and Income: A Panel Data Analysis</strong></p>
+<blockquote class="blockquote">
+<p>Preparing for Submission</p>
+</blockquote>
+<ul>
+<li>Using panel data on Chinese foundations (2018–2022), we examine participation in financial investments and realized income. Engagement is limited and returns modest. Internal capacity (leverage, financial flexibility) and external institutional factors (political connections) shape investment decisions. The study elucidates financial strategy under state regulation, extending resource dependence and institutional perspectives to nonprofit investment behavior in emerging economies.</li>
+</ul>
+<p><strong>3. Does Commercialization Improve Nonprofits’ Financial Health? A Quasi-Experimental Design</strong></p>
+<blockquote class="blockquote">
+<p>Writing</p>
+</blockquote>
+<ul>
+<li>With panel data on 5,000 U.S. arts and culture nonprofits (2009–2019) and an instrumental variable based on local accommodation employment growth, we estimate the effect of commercialization on financial health. Commercialization reduces cash reserves and unrestricted net assets but does not increase debt burden. Results challenge assumptions about earned-revenue strategies and inform leaders weighing revenue diversification against financial resilience and mission integrity.</li>
+</ul>
+<hr>
+</section>
+<section id="pipeline-4-policy-regulation-and-global-civil-society" class="level3">
+<h3 class="anchored" data-anchor-id="pipeline-4-policy-regulation-and-global-civil-society"><span class="pipeline-title">Pipeline 4<br>Policy, Regulation, and Global Civil Society</span></h3>
+<p><strong>1. Enforcing Boundaries: China’s Overseas NGO Law and Operational Constraints for Global Civil Society</strong></p>
+<blockquote class="blockquote">
+<p>Preparing for Submission</p>
+</blockquote>
+<ul>
+<li>A mixed-method design—Bayesian analysis of all registered INGOs and comparative case studies—shows mission area, issue focus, and relationships with local officials shape operating space under China’s ONGO Law. The study connects regulatory design to organizational adaptation, contributing to scholarship on authoritarian governance and the uneven closing of civic space.</li>
+</ul>
+<p><strong><em>2. Building an Enabling Legal Environment: Laws and Policies on Social Enterprises in China</em></strong></p>
+<blockquote class="blockquote">
+<p>Published at <a href="https://www.tandfonline.com/doi/abs/10.1080/17516234.2020.1824263"><em>Journal of Asian Public Policy</em></a></p>
+</blockquote>
+<ul>
+<li>This article systematically reviews national regulations and compares three local accreditation models, assessing them against the UK’s Social Enterprise Mark. Findings reveal uneven institutionalization and fragmented recognition across locales, identifying gaps and directions for reform. The work informs comparative policy debates on designing legal frameworks that enable inclusive social innovation.</li>
+</ul>
+<p><strong>3. Unlocking the Impact of Charity Law on Commercialization of Charitable Organizations: Evidence from a Quasi-Experiment Design</strong></p>
+<blockquote class="blockquote">
+<p>Under review</p>
+</blockquote>
+<ul>
+<li>Difference-in-differences analysis of 29,599 reports from 6,264 organizations (2010–2020) examines how China’s 2016 Charity Law reshaped commercialization. Both public and non-public charities reduced commercial revenue post-reform, but non-public organizations retained more flexibility and sustained higher levels of commercialization. Results underline how institutional design steers nonprofit financing strategies and autonomy.</li>
+</ul>
+<p><strong>4. A Tax Credit Proposal for Profit Moderation and Social Mission Maximization in Long-Term Residential Care Businesses</strong></p>
+<blockquote class="blockquote">
+<p>Published at <a href="https://www.degruyterbrill.com/document/doi/10.1515/npf-2022-0014/html"><em>Nonprofit Policy Forum</em></a></p>
+</blockquote>
+<ul>
+<li>This policy brief proposes a tax credit mechanism to address abuse and neglect in for-profit long-term residential care. The design introduces four components—social financing, a sliding dividend cap, employee ownership, and restrictions on complex corporate structures—tied to eligibility for the credit. By altering the incentive structure that currently prioritizes profit maximization over care quality, the proposal offers a path to better align financial practices with social mission. The article contributes to debates on regulating for-profit providers while safeguarding vulnerable populations dependent on Medicare and Medicaid funding.</li>
+</ul>
+</section>
+<section id="methodological-papers" class="level3">
+<h3 class="anchored" data-anchor-id="methodological-papers"><span class="pipeline-title">Methodological Papers</span></h3>
+
+
+</section>
+
+</main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+window.document.addEventListener("DOMContentLoaded", function (event) {
+  const toggleBodyColorMode = (bsSheetEl) => {
+    const mode = bsSheetEl.getAttribute("data-mode");
+    const bodyEl = window.document.querySelector("body");
+    if (mode === "dark") {
+      bodyEl.classList.add("quarto-dark");
+      bodyEl.classList.remove("quarto-light");
+    } else {
+      bodyEl.classList.add("quarto-light");
+      bodyEl.classList.remove("quarto-dark");
+    }
+  }
+  const toggleBodyColorPrimary = () => {
+    const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
+    if (bsSheetEl) {
+      toggleBodyColorMode(bsSheetEl);
+    }
+  }
+  toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
+  const isCodeAnnotation = (el) => {
+    for (const clz of el.classList) {
+      if (clz.startsWith('code-annotation-')) {                     
+        return true;
+      }
+    }
+    return false;
+  }
+  const clipboard = new window.ClipboardJS('.code-copy-button', {
+    text: function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+    }
+  });
+  clipboard.on('success', function(e) {
+    // button target
+    const button = e.trigger;
+    // don't keep focus
+    button.blur();
+    // flash "checked"
+    button.classList.add('code-copy-button-checked');
+    var currentTitle = button.getAttribute("title");
+    button.setAttribute("title", "Copied!");
+    let tooltip;
+    if (window.bootstrap) {
+      button.setAttribute("data-bs-toggle", "tooltip");
+      button.setAttribute("data-bs-placement", "left");
+      button.setAttribute("data-bs-title", "Copied!");
+      tooltip = new bootstrap.Tooltip(button, 
+        { trigger: "manual", 
+          customClass: "code-copy-button-tooltip",
+          offset: [0, -8]});
+      tooltip.show();    
+    }
+    setTimeout(function() {
+      if (tooltip) {
+        tooltip.hide();
+        button.removeAttribute("data-bs-title");
+        button.removeAttribute("data-bs-toggle");
+        button.removeAttribute("data-bs-placement");
+      }
+      button.setAttribute("title", currentTitle);
+      button.classList.remove('code-copy-button-checked');
+    }, 1000);
+    // clear code selection
+    e.clearSelection();
+  });
+    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+    var mailtoRegex = new RegExp(/^mailto:/);
+      var filterRegex = new RegExp('/' + window.location.host + '/');
+    var isInternal = (href) => {
+        return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+    }
+    // Inspect non-navigation links and adorn them if external
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool)');
+    for (var i=0; i<links.length; i++) {
+      const link = links[i];
+      if (!isInternal(link.href)) {
+        // undo the damage that might have been done by quarto-nav.js in the case of
+        // links that we want to consider external
+        if (link.dataset.originalHref !== undefined) {
+          link.href = link.dataset.originalHref;
+        }
+      }
+    }
+  function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+    const config = {
+      allowHTML: true,
+      maxWidth: 500,
+      delay: 100,
+      arrow: false,
+      appendTo: function(el) {
+          return el.parentElement;
+      },
+      interactive: true,
+      interactiveBorder: 10,
+      theme: 'quarto',
+      placement: 'bottom-start',
+    };
+    if (contentFn) {
+      config.content = contentFn;
+    }
+    if (onTriggerFn) {
+      config.onTrigger = onTriggerFn;
+    }
+    if (onUntriggerFn) {
+      config.onUntrigger = onUntriggerFn;
+    }
+    window.tippy(el, config); 
+  }
+  const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+  for (var i=0; i<noterefs.length; i++) {
+    const ref = noterefs[i];
+    tippyHover(ref, function() {
+      // use id or data attribute instead here
+      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+      try { href = new URL(href).hash; } catch {}
+      const id = href.replace(/^#\/?/, "");
+      const note = window.document.getElementById(id);
+      if (note) {
+        return note.innerHTML;
+      } else {
+        return "";
+      }
+    });
+  }
+  const xrefs = window.document.querySelectorAll('a.quarto-xref');
+  const processXRef = (id, note) => {
+    // Strip column container classes
+    const stripColumnClz = (el) => {
+      el.classList.remove("page-full", "page-columns");
+      if (el.children) {
+        for (const child of el.children) {
+          stripColumnClz(child);
+        }
+      }
+    }
+    stripColumnClz(note)
+    if (id === null || id.startsWith('sec-')) {
+      // Special case sections, only their first couple elements
+      const container = document.createElement("div");
+      if (note.children && note.children.length > 2) {
+        container.appendChild(note.children[0].cloneNode(true));
+        for (let i = 1; i < note.children.length; i++) {
+          const child = note.children[i];
+          if (child.tagName === "P" && child.innerText === "") {
+            continue;
+          } else {
+            container.appendChild(child.cloneNode(true));
+            break;
+          }
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(container);
+        }
+        return container.innerHTML
+      } else {
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        return note.innerHTML;
+      }
+    } else {
+      // Remove any anchor links if they are present
+      const anchorLink = note.querySelector('a.anchorjs-link');
+      if (anchorLink) {
+        anchorLink.remove();
+      }
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(note);
+      }
+      // TODO in 1.5, we should make sure this works without a callout special case
+      if (note.classList.contains("callout")) {
+        return note.outerHTML;
+      } else {
+        return note.innerHTML;
+      }
+    }
+  }
+  for (var i=0; i<xrefs.length; i++) {
+    const xref = xrefs[i];
+    tippyHover(xref, undefined, function(instance) {
+      instance.disable();
+      let url = xref.getAttribute('href');
+      let hash = undefined; 
+      if (url.startsWith('#')) {
+        hash = url;
+      } else {
+        try { hash = new URL(url).hash; } catch {}
+      }
+      if (hash) {
+        const id = hash.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note !== null) {
+          try {
+            const html = processXRef(id, note.cloneNode(true));
+            instance.setContent(html);
+          } finally {
+            instance.enable();
+            instance.show();
+          }
+        } else {
+          // See if we can fetch this
+          fetch(url.split('#')[0])
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.getElementById(id);
+            if (note !== null) {
+              const html = processXRef(id, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      } else {
+        // See if we can fetch a full url (with no hash to target)
+        // This is a special case and we should probably do some content thinning / targeting
+        fetch(url)
+        .then(res => res.text())
+        .then(html => {
+          const parser = new DOMParser();
+          const htmlDoc = parser.parseFromString(html, "text/html");
+          const note = htmlDoc.querySelector('main.content');
+          if (note !== null) {
+            // This should only happen for chapter cross references
+            // (since there is no id in the URL)
+            // remove the first header
+            if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+              note.children[0].remove();
+            }
+            const html = processXRef(null, note);
+            instance.setContent(html);
+          } 
+        }).finally(() => {
+          instance.enable();
+          instance.show();
+        });
+      }
+    }, function(instance) {
+    });
+  }
+      let selectedAnnoteEl;
+      const selectorForAnnotation = ( cell, annotation) => {
+        let cellAttr = 'data-code-cell="' + cell + '"';
+        let lineAttr = 'data-code-annotation="' +  annotation + '"';
+        const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+        return selector;
+      }
+      const selectCodeLines = (annoteEl) => {
+        const doc = window.document;
+        const targetCell = annoteEl.getAttribute("data-target-cell");
+        const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+        const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+        const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+        const lineIds = lines.map((line) => {
+          return targetCell + "-" + line;
+        })
+        let top = null;
+        let height = null;
+        let parent = null;
+        if (lineIds.length > 0) {
+            //compute the position of the single el (top and bottom and make a div)
+            const el = window.document.getElementById(lineIds[0]);
+            top = el.offsetTop;
+            height = el.offsetHeight;
+            parent = el.parentElement.parentElement;
+          if (lineIds.length > 1) {
+            const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+            const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+            height = bottom - top;
+          }
+          if (top !== null && height !== null && parent !== null) {
+            // cook up a div (if necessary) and position it 
+            let div = window.document.getElementById("code-annotation-line-highlight");
+            if (div === null) {
+              div = window.document.createElement("div");
+              div.setAttribute("id", "code-annotation-line-highlight");
+              div.style.position = 'absolute';
+              parent.appendChild(div);
+            }
+            div.style.top = top - 2 + "px";
+            div.style.height = height + 4 + "px";
+            div.style.left = 0;
+            let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+            if (gutterDiv === null) {
+              gutterDiv = window.document.createElement("div");
+              gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+              gutterDiv.style.position = 'absolute';
+              const codeCell = window.document.getElementById(targetCell);
+              const gutter = codeCell.querySelector('.code-annotation-gutter');
+              gutter.appendChild(gutterDiv);
+            }
+            gutterDiv.style.top = top - 2 + "px";
+            gutterDiv.style.height = height + 4 + "px";
+          }
+          selectedAnnoteEl = annoteEl;
+        }
+      };
+      const unselectCodeLines = () => {
+        const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+        elementsIds.forEach((elId) => {
+          const div = window.document.getElementById(elId);
+          if (div) {
+            div.remove();
+          }
+        });
+        selectedAnnoteEl = undefined;
+      };
+        // Handle positioning of the toggle
+    window.addEventListener(
+      "resize",
+      throttle(() => {
+        elRect = undefined;
+        if (selectedAnnoteEl) {
+          selectCodeLines(selectedAnnoteEl);
+        }
+      }, 10)
+    );
+    function throttle(fn, ms) {
+    let throttle = false;
+    let timer;
+      return (...args) => {
+        if(!throttle) { // first call gets through
+            fn.apply(this, args);
+            throttle = true;
+        } else { // all the others get throttled
+            if(timer) clearTimeout(timer); // cancel #2
+            timer = setTimeout(() => {
+              fn.apply(this, args);
+              timer = throttle = false;
+            }, ms);
+        }
+      };
+    }
+      // Attach click handler to the DT
+      const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+      for (const annoteDlNode of annoteDls) {
+        annoteDlNode.addEventListener('click', (event) => {
+          const clickedEl = event.target;
+          if (clickedEl !== selectedAnnoteEl) {
+            unselectCodeLines();
+            const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+            if (activeEl) {
+              activeEl.classList.remove('code-annotation-active');
+            }
+            selectCodeLines(clickedEl);
+            clickedEl.classList.add('code-annotation-active');
+          } else {
+            // Unselect the line
+            unselectCodeLines();
+            clickedEl.classList.remove('code-annotation-active');
+          }
+        });
+      }
+  const findCites = (el) => {
+    const parentEl = el.parentElement;
+    if (parentEl) {
+      const cites = parentEl.dataset.cites;
+      if (cites) {
+        return {
+          el,
+          cites: cites.split(' ')
+        };
+      } else {
+        return findCites(el.parentElement)
+      }
+    } else {
+      return undefined;
+    }
+  };
+  var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+  for (var i=0; i<bibliorefs.length; i++) {
+    const ref = bibliorefs[i];
+    const citeInfo = findCites(ref);
+    if (citeInfo) {
+      tippyHover(citeInfo.el, function() {
+        var popup = window.document.createElement('div');
+        citeInfo.cites.forEach(function(cite) {
+          var citeDiv = window.document.createElement('div');
+          citeDiv.classList.add('hanging-indent');
+          citeDiv.classList.add('csl-entry');
+          var biblioDiv = window.document.getElementById('ref-' + cite);
+          if (biblioDiv) {
+            citeDiv.innerHTML = biblioDiv.innerHTML;
+          }
+          popup.appendChild(citeDiv);
+        });
+        return popup.innerHTML;
+      });
+    }
+  }
+});
+</script>
+</div> <!-- /content -->
+
+
+
+
+</body></html>
