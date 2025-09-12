@@ -15,7 +15,9 @@
   
   - “She kept the class super engaged and invited very knowledgeable guests.”  
   
-  - “Created an environment where I felt I was able to learn about a topic I was completely unfamiliar with without feeling pressure.”  
+  - “Created an environment where I felt I was able to learn about a topic I was completely unfamiliar with without feeling pressure.” 
+  
+  - "I enjoyed the course very much and learned so much in a short amount of time." 
 
 <div class="embed-container">
   <iframe src="teaching_eval_2023.pdf" style="width:100%; height:600px; border:0.5px"></iframe>
