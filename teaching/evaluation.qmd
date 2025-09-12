@@ -1,26 +1,45 @@
----
-title: "Written Assignment Rubrics"
-editor: visual
----
+## Teaching Recognition
+- 2024 Andrew Young School Excellence in Teaching Policy Award
 
-Rubric Name: Grading Rubric_Written Assignment
+## Teaching Evaluations
 
-+:-------------------------------------------+:---------------------------------------------------------------------------------------------------------------------------+:-------------------------------------------------------------------------------------------------------------+:-----------------------------------------------------------------------------------------------------------------------------+:------------------------------------------------------------------------------------------------------+
-| Criteria                                   | **Advanced**                                                                                                               | **Proficient**                                                                                               | **Developing**                                                                                                               | **Insufficient**                                                                                      |
-+--------------------------------------------+----------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------+
-| Assignment Specific Grading Items          | 40 points                                                                                                                  | 35 points                                                                                                    | 30 points                                                                                                                    | 20 points                                                                                             |
-|                                            |                                                                                                                            |                                                                                                              |                                                                                                                              |                                                                                                       |
-|                                            | Assignment instructions are followed.                                                                                      | Assignment instructions are mostly followed.                                                                 | Assignment instructions largely are not followed or don't address many requirements.                                         | Assignment instructions are not followed or attempts are largely inaccurate.                          |
-|                                            |                                                                                                                            |                                                                                                              |                                                                                                                              |                                                                                                       |
-|                                            | Required items and formatting are addressed comprehensively and accurately.                                                | Required items and formatting are addressed accurately.                                                      |                                                                                                                              |                                                                                                       |
-+--------------------------------------------+----------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------+
-| Critical Analysis (Understanding of Topic) | 40 points                                                                                                                  | 35 points                                                                                                    | 30 points                                                                                                                    | 20 points                                                                                             |
-|                                            |                                                                                                                            |                                                                                                              |                                                                                                                              |                                                                                                       |
-|                                            | Content displays excellent comprehension, application, and/or analysis of the topic and underlying concepts.               | Content presents basic comprehension, application, and/or analysis of the topic and underlying concepts.     | Content presents little to no comprehension, application, and/or analysis of the topic and underlying concepts.              | Content presents no comprehension, application, and/or analysis of the topic and underlying concepts. |
-|                                            |                                                                                                                            |                                                                                                              |                                                                                                                              |                                                                                                       |
-|                                            | Includes correct use of terminology.                                                                                       | Includes correct use of terminology.                                                                         | Includes incorrect use of terminology.                                                                                       | Integrates no relevant evidence to support important points.                                          |
-+--------------------------------------------+----------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------+
-| Writing & Clarity                          | 20 points                                                                                                                  | 15 points                                                                                                    | 10 points                                                                                                                    | 5 points                                                                                              |
-|                                            |                                                                                                                            |                                                                                                              |                                                                                                                              |                                                                                                       |
-|                                            | Writing is clear, well-written and free of grammatical and spelling mistakes. Required citations are included and correct. | Writing is clear, with a few grammatical and spelling mistakes. Required citations are included and correct. | Writing is clear but there are many spelling and grammatical mistakes. Required citations are incorrect or some are missing. | Writing is unclear or diff                                                                            |
-+--------------------------------------------+----------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------+
+### Summer 2023, PMAP 3210 Introduction to Nonprofits, Online, 4.9/5
+
+- Enrollment: 39 | Response rate: 41%  
+
+- Selected comments:  
+
+  - “All assignments were organized and uploaded early which was great (especially in a summer class setting), and the professor was always available to answer any questions we had.” 
+  
+  - “Very caring, always available.”  
+  
+  - “She kept the class super engaged and invited very knowledgeable guests.”  
+  
+  - “Created an environment where I felt I was able to learn about a topic I was completely unfamiliar with without feeling pressure.”  
+
+<div class="embed-container">
+  <iframe src="teaching_eval_2023.pdf" style="width:100%; height:600px; border:0.5px"></iframe>
+</div>
+
+
+
+### Fall 2024, PMAP 3231 Nonprofit Leadership & Management, Online, 5/5
+
+- Enrollment: 29 | Response rate: 27.6%  
+
+- Selected comments:  
+
+  - “Informative”  
+  
+  - “Understanding”  
+
+<div class="embed-container">
+  <iframe src="teaching_eval_2024.pdf" style="width:100%; height:600px; border:0.5px"></iframe>
+</div>
+
+## Student Appreciation
+
+### CETLOE Thank-a-Teacher Program (2023)
+  *“Thank you for being so kind and fair to all students. I appreciate your great patience too. It made me feel more relaxed in your class; therefore, I performed better!”*
+
+<img src="../note.jpg" style="width:70%; display:block; margin:auto; margin-top:1em;">

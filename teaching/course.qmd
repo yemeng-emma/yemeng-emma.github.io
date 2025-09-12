@@ -1,29 +1,32 @@
 ---
 title: "Courses Taught"
+format: html
 ---
 
-- ***PMAP 3210 Introduction to Nonprofits***
+## Instructor on Record
+- **PMAP 3210: Introduction to Nonprofits**  
+  Instructor, Summer 2023 (online, synchronous)
 
-    Course Designer and Instructor, Summer 2023, **online synchronous**
+- **PMAP 3231: Nonprofit Leadership and Management**  
+  Instructor, Fall 2024 (in person)
 
-    Guest Lecturer on “Financial Management”, Spring 2023, in person
+## Guest Lectures
+- **PMAP 3210: Introduction to Nonprofits**  
+  Guest lecture on “Financial Management,” Spring 2023 (in person)
 
-- ***PMAP 3231 Nonprofit Leadership and Management***
+- **PHPB 9310: Public Health Finance and Management**  
+  Guest lecture on “Nonprofit Finance,” Spring 2025 (in person)
 
-    Course Designer and Instructor, Fall 2024, in person
+- **PSCI 491: Chinese Politics & Policy** – Montana State University  
+  Guest lecture on “Nonprofit Management and Policy in China,” Spring 2025 (hybrid synchronous)
 
-- ***PMAP 8511 Big Data for Public Good***
+## Course Development
+- **PMAP 8511: Big Data for Public Good**  
+  Designed and built the course website with Quarto as part of GSU’s big data initiative. The site was adopted as a template/master course on GitHub (<https://aysps.github.io/bigdata4publicgood/>).
 
-    Designed and built the course website with Quarto as part of GSU’s big data initiative as a [template/master course on GitHub](<https://aysps.github.io/bigdata4publicgood/>)
+## Teaching Assistant and Facilitator
+- **PMAP Data Visualization Micro-Credential Workshop**  
+  Sessions I & II, February & April 2024 (in person)
 
-***PHPB 9310 Public Health Finance and Management***
-
-            Guest lecturer on “Nonprofit Finance”, Spring 2025, in person
-
-***PMAP Data Visualization Micro-Credential Workshop***
-
-Teaching Assistant, Sessions I & II, February & April 2024, in person 
-
-***PSCI 491 Chinese Politics & Policy – Montana State University***
-
-Guest lecturer on “Nonprofit Management and Policy in China”, Spring 2025, hybrid synchronous
+- **APPAM Policy Camp at Georgia State University**  
+  Group facilitator and panelist, March 2023 (in person)

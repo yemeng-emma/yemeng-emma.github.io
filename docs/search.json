@@ -2,9 +2,9 @@
   {
     "objectID": "teaching/evaluation.html",
     "href": "teaching/evaluation.html",
-    "title": "Written Assignment Rubrics",
+    "title": "Meng Ye",
     "section": "",
-    "text": "Rubric Name: Grading Rubric_Written Assignment\n\n\n\n\n\n\n\n\n\n\nCriteria\nAdvanced\nProficient\nDeveloping\nInsufficient\n\n\nAssignment Specific Grading Items\n40 points\nAssignment instructions are followed.\nRequired items and formatting are addressed comprehensively and accurately.\n35 points\nAssignment instructions are mostly followed.\nRequired items and formatting are addressed accurately.\n30 points\nAssignment instructions largely are not followed or don’t address many requirements.\n20 points\nAssignment instructions are not followed or attempts are largely inaccurate.\n\n\nCritical Analysis (Understanding of Topic)\n40 points\nContent displays excellent comprehension, application, and/or analysis of the topic and underlying concepts.\nIncludes correct use of terminology.\n35 points\nContent presents basic comprehension, application, and/or analysis of the topic and underlying concepts.\nIncludes correct use of terminology.\n30 points\nContent presents little to no comprehension, application, and/or analysis of the topic and underlying concepts.\nIncludes incorrect use of terminology.\n20 points\nContent presents no comprehension, application, and/or analysis of the topic and underlying concepts.\nIntegrates no relevant evidence to support important points.\n\n\nWriting & Clarity\n20 points\nWriting is clear, well-written and free of grammatical and spelling mistakes. Required citations are included and correct.\n15 points\nWriting is clear, with a few grammatical and spelling mistakes. Required citations are included and correct.\n10 points\nWriting is clear but there are many spelling and grammatical mistakes. Required citations are incorrect or some are missing.\n5 points\nWriting is unclear or diff",
+    "text": "2024 Andrew Young School Excellence in Teaching Policy Award",
     "crumbs": [
       "2. Teaching Evaluation"
     ]
@@ -247,7 +247,77 @@
     "href": "teaching/course.html",
     "title": "Courses Taught",
     "section": "",
-    "text": "PMAP 3210 Introduction to Nonprofits\nCourse Designer and Instructor, Summer 2023, online synchronous\nGuest Lecturer on “Financial Management”, Spring 2023, in person\nPMAP 3231 Nonprofit Leadership and Management\nCourse Designer and Instructor, Fall 2024, in person\nPMAP 8511 Big Data for Public Good\nDesigned and built the course website with Quarto as part of GSU’s big data initiative as a template/master course on GitHub\n\nPHPB 9310 Public Health Finance and Management\n            Guest lecturer on “Nonprofit Finance”, Spring 2025, in person\nPMAP Data Visualization Micro-Credential Workshop\nTeaching Assistant, Sessions I & II, February & April 2024, in person \nPSCI 491 Chinese Politics & Policy – Montana State University\nGuest lecturer on “Nonprofit Management and Policy in China”, Spring 2025, hybrid synchronous",
+    "text": "PMAP 3210: Introduction to Nonprofits\nInstructor, Summer 2023 (online, synchronous)\nPMAP 3231: Nonprofit Leadership and Management\nInstructor, Fall 2024 (in person)",
+    "crumbs": [
+      "1. Courses Taught"
+    ]
+  },
+  {
+    "objectID": "teaching/evaluation.html#teaching-recognition",
+    "href": "teaching/evaluation.html#teaching-recognition",
+    "title": "Meng Ye",
+    "section": "",
+    "text": "2024 Andrew Young School Excellence in Teaching Policy Award",
+    "crumbs": [
+      "2. Teaching Evaluation"
+    ]
+  },
+  {
+    "objectID": "teaching/evaluation.html#teaching-evaluations",
+    "href": "teaching/evaluation.html#teaching-evaluations",
+    "title": "Meng Ye",
+    "section": "Teaching Evaluations",
+    "text": "Teaching Evaluations\n\nSummer 2023, PMAP 3210 Introduction to Nonprofits, Online, 4.9/5\n\nEnrollment: 39 | Response rate: 41%\nSelected comments:\n\n“All assignments were organized and uploaded early which was great (especially in a summer class setting), and the professor was always available to answer any questions we had.”\n“Very caring, always available.”\n“She kept the class super engaged and invited very knowledgeable guests.”\n“Created an environment where I felt I was able to learn about a topic I was completely unfamiliar with without feeling pressure.”\n\n\n\n\n\n\n\nFall 2024, PMAP 3231 Nonprofit Leadership & Management, Online, 5/5\n\nEnrollment: 29 | Response rate: 27.6%\nSelected comments:\n\n“Informative”\n“Understanding”",
+    "crumbs": [
+      "2. Teaching Evaluation"
+    ]
+  },
+  {
+    "objectID": "teaching/evaluation.html#student-appreciation",
+    "href": "teaching/evaluation.html#student-appreciation",
+    "title": "Meng Ye",
+    "section": "Student Appreciation",
+    "text": "Student Appreciation\n\nCETLOE Thank-a-Teacher Program (2023)\n“Thank you for being so kind and fair to all students. I appreciate your great patience too. It made me feel more relaxed in your class; therefore, I performed better!”",
+    "crumbs": [
+      "2. Teaching Evaluation"
+    ]
+  },
+  {
+    "objectID": "teaching/course.html#instructor-on-record",
+    "href": "teaching/course.html#instructor-on-record",
+    "title": "Courses Taught",
+    "section": "",
+    "text": "PMAP 3210: Introduction to Nonprofits\nInstructor, Summer 2023 (online, synchronous)\nPMAP 3231: Nonprofit Leadership and Management\nInstructor, Fall 2024 (in person)",
+    "crumbs": [
+      "1. Courses Taught"
+    ]
+  },
+  {
+    "objectID": "teaching/course.html#guest-lectures",
+    "href": "teaching/course.html#guest-lectures",
+    "title": "Courses Taught",
+    "section": "Guest Lectures",
+    "text": "Guest Lectures\n\nPMAP 3210: Introduction to Nonprofits\nGuest lecture on “Financial Management,” Spring 2023 (in person)\nPHPB 9310: Public Health Finance and Management\nGuest lecture on “Nonprofit Finance,” Spring 2025 (in person)\nPSCI 491: Chinese Politics & Policy – Montana State University\nGuest lecture on “Nonprofit Management and Policy in China,” Spring 2025 (hybrid synchronous)",
+    "crumbs": [
+      "1. Courses Taught"
+    ]
+  },
+  {
+    "objectID": "teaching/course.html#course-development",
+    "href": "teaching/course.html#course-development",
+    "title": "Courses Taught",
+    "section": "Course Development",
+    "text": "Course Development\n\nPMAP 8511: Big Data for Public Good\nDesigned and built the course website with Quarto as part of GSU’s big data initiative. The site was adopted as a template/master course on GitHub (https://aysps.github.io/bigdata4publicgood/).",
+    "crumbs": [
+      "1. Courses Taught"
+    ]
+  },
+  {
+    "objectID": "teaching/course.html#teaching-assistant-and-facilitator",
+    "href": "teaching/course.html#teaching-assistant-and-facilitator",
+    "title": "Courses Taught",
+    "section": "Teaching Assistant and Facilitator",
+    "text": "Teaching Assistant and Facilitator\n\nPMAP Data Visualization Micro-Credential Workshop\nSessions I & II, February & April 2024 (in person)\nAPPAM Policy Camp at Georgia State University\nGroup facilitator and panelist, March 2023 (in person)",
     "crumbs": [
       "1. Courses Taught"
     ]
