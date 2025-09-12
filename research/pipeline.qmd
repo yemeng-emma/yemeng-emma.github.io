@@ -26,19 +26,19 @@ each addressing a critical aspect of nonprofit and public management.
 
 >**Dissertation: Nonprofit Commercialization – Three Essays on Its Implications for Social Mission, Access Disparities, and Public Perceptions**
 
-***1. How Does Commercialization Impact Nonprofit Performance and Service Accessibility? Differentiating Mission-Related and Unrelated Earned Income***  
+**1. How Does Commercialization Impact Nonprofit Performance and Service Accessibility? Differentiating Mission-Related and Unrelated Earned Income**
 
 > Selected for 2025 NML-ESS Nonprofit Early Scholars Fellowship, preparing for submission 
 
 - This paper investigates how commercialization affects nonprofit performance and access to services by distinguishing between mission-related business income (RBI) and mission-unrelated business income (UBI). Using panel data from U.S. arts and culture nonprofits between 2010 and 2021, it applies hierarchical panel analysis to test how revenue strategies shape both overall attendance and free access ratios. Results indicate that RBI supports attendance but reduces free service provision, while UBI is associated with declines in both performance and accessibility. The study highlights the dual role of commercialization in strengthening financial sustainability while potentially narrowing equitable access.
 
-***2. Nonprofit Commercialization in England’s Health and Social Care: Impact on Quality Rating and the Access Disparity***  
+**2. Nonprofit Commercialization in England’s Health and Social Care: Impact on Quality Rating and the Access Disparity**  
 
 > Selected for 2025 ARNOVA Doctoral Seminar, writing
 
 - Leveraging Care Quality Commission quality inspections, Charity Commission financial returns, and the Index of Multiple Deprivation, this study analyzes 47,000+ nonprofit service sites. Hierarchical ordered logit models assess how RBI and UBI relate to service quality and where providers operate. RBI is linked to higher quality ratings, whereas UBI correlates with lower performance. Both income types are associated with concentration in less deprived locales, raising access and equity concerns. The paper advances discussions of mission drift and accountability by connecting commercialization to measurable service outcomes and the socio-economic geography of provision.
 
-***3. How Do Individual Donors Respond to Nonprofit Commercialization and Related Context and Framing: A Conjoint Survey Experiment Study***  
+**3. How Do Individual Donors Respond to Nonprofit Commercialization and Related Context and Framing: A Conjoint Survey Experiment Study**
 
 > Writing
 
@@ -48,21 +48,21 @@ each addressing a critical aspect of nonprofit and public management.
 
 ### <span class="pipeline-title">Pipeline 2<br>Government Retrenchment, Publicness, and Organizational Performance</span>
 
-***1. Do Social Enterprises Fulfill Their Social Promise?***  
+**1. Do Social Enterprises Fulfill their Social Mission? Comparing Quality across Ownership Models in Social Care**  
 
 > Forthcoming, *Public Performance & Management Review*
 
 - Using English social care as a natural laboratory, we compare Community Interest Companies (CICs) with public, nonprofit, for-profit, and family-owned providers on Care Quality Commission ratings. CICs outperform for-profit providers and perform on par with nonprofits and public organizations, suggesting hybrids can balance commercial tools with social purpose. Findings inform policy debates on ownership design and the capacity of social enterprises to safeguard service quality in retrenching welfare states.
 
-***2. Government versus Social Enterprise: Comparing the Quality of Government-Run and Social Enterprise Spin-Out Organizations in English Health and Social Care***  
+**2. Government versus Social Enterprise: Comparing the Quality of Government-Run and Social Enterprise Spin-Out Organizations in English Health and Social Care**  
 
 > Revise & Resubmit, *Journal of Social Policy*
 
 - We analyze services “spun out” from government into CICs and compare them to government-run and independently established CICs. Spin-outs score higher than government providers but below non-spin-out CICs. Framed by publicness theory, results highlight how organizational legacies and hybridization shape performance. The paper offers evidence for policymakers deciding when to retain direct provision versus devolving to social enterprises under fiscal and managerial pressures.
 
-***3. Joint Private Provision of Social Good: A Mixed-Method Study of Nonprofit-Business Collaboration***  
+**3. Joint Private Provision of Social Good: A Mixed-Method Study of Nonprofit-Business Collaboration**  
 
-> Under review
+> Preparing for Submission
 
 - In China’s charitable trust sector, we combine analysis of 1,227 trust filings with 31 stakeholder interviews to examine nonprofit–business collaboration. Larger asset size, longer terms, and system maturation increase collaboration likelihood. Qualitative insights reveal motivations beyond efficiency—innovation and policy advocacy—alongside cases where collaboration was cost-ineffective. The study contributes to resource dependence and institutional design theories and provides rare empirical evidence on cross-sector partnerships in a non-Western context.
 
@@ -70,21 +70,21 @@ each addressing a critical aspect of nonprofit and public management.
 
 ### <span class="pipeline-title">Pipeline 3<br>Nonprofit Finance, Accountability, and Sustainability</span>
 
-***1. How Does Reduced Reporting Burden in 990-EZ Impact Nonprofits’ Financial Health?***  
+**1. How Does Reduced Reporting Burden in 990-EZ Impact Nonprofits’ Financial Health?**  
 
-> Under review
+> Data Analysis
 
 - Exploiting IRS revenue and asset thresholds in a regression discontinuity design (2012–2023), this study tests whether simplified 990-EZ reporting affects nonprofit survival and financial health. Findings indicate compliance cost relief may come with trade-offs for longer-term sustainability and transparency. The results speak to nonprofit accountability theory and current conversations on trust-based philanthropy, offering evidence on regulatory design and administrative burden.
 
-***2. Factors Driving Nonprofit Financial Investment Decisions and Income: A Panel Data Analysis***  
+**2. Factors Driving Nonprofit Financial Investment Decisions and Income: A Panel Data Analysis**  
 
-> Under review
+> Preparing for Submission
 
 - Using panel data on Chinese foundations (2018–2022), we examine participation in financial investments and realized income. Engagement is limited and returns modest. Internal capacity (leverage, financial flexibility) and external institutional factors (political connections) shape investment decisions. The study elucidates financial strategy under state regulation, extending resource dependence and institutional perspectives to nonprofit investment behavior in emerging economies.
 
-***3. Does Commercialization Improve Nonprofits’ Financial Health? A Quasi-Experimental Design***  
+**3. Does Commercialization Improve Nonprofits’ Financial Health? A Quasi-Experimental Design**  
 
-> In preparation
+> Writing
 
 - With panel data on 5,000 U.S. arts and culture nonprofits (2009–2019) and an instrumental variable based on local accommodation employment growth, we estimate the effect of commercialization on financial health. Commercialization reduces cash reserves and unrestricted net assets but does not increase debt burden. Results challenge assumptions about earned-revenue strategies and inform leaders weighing revenue diversification against financial resilience and mission integrity.
 
@@ -92,20 +92,26 @@ each addressing a critical aspect of nonprofit and public management.
 
 ### <span class="pipeline-title">Pipeline 4<br>Policy, Regulation, and Global Civil Society</span>
 
-***1. Enforcing Boundaries: China’s Overseas NGO Law and Operational Constraints for Global Civil Society***  
+**1. Enforcing Boundaries: China’s Overseas NGO Law and Operational Constraints for Global Civil Society**  
 
-> Under review
+> Preparing for Submission
 
 - A mixed-method design—Bayesian analysis of all registered INGOs and comparative case studies—shows mission area, issue focus, and relationships with local officials shape operating space under China’s ONGO Law. The study connects regulatory design to organizational adaptation, contributing to scholarship on authoritarian governance and the uneven closing of civic space.
 
 ***2. Building an Enabling Legal Environment: Laws and Policies on Social Enterprises in China***  
 
-> Published
+> Published at [*Journal of Asian Public Policy*](https://www.tandfonline.com/doi/abs/10.1080/17516234.2020.1824263)
 
 - This article systematically reviews national regulations and compares three local accreditation models, assessing them against the UK’s Social Enterprise Mark. Findings reveal uneven institutionalization and fragmented recognition across locales, identifying gaps and directions for reform. The work informs comparative policy debates on designing legal frameworks that enable inclusive social innovation.
 
-***3. Unlocking the Impact of Charity Law on Commercialization of Charitable Organizations: Evidence from a Quasi-Experiment Design***
+**3. Unlocking the Impact of Charity Law on Commercialization of Charitable Organizations: Evidence from a Quasi-Experiment Design**
 
 > Under review
 
 - Difference-in-differences analysis of 29,599 reports from 6,264 organizations (2010–2020) examines how China’s 2016 Charity Law reshaped commercialization. Both public and non-public charities reduced commercial revenue post-reform, but non-public organizations retained more flexibility and sustained higher levels of commercialization. Results underline how institutional design steers nonprofit financing strategies and autonomy.
+
+**4. A Tax Credit Proposal for Profit Moderation and Social Mission Maximization in Long-Term Residential Care Businesses**
+
+> Published, [*Nonprofit Policy Forum](https://www.degruyterbrill.com/document/doi/10.1515/npf-2022-0014/html)
+
+- This policy brief proposes a tax credit mechanism to address abuse and neglect in for-profit long-term residential care. The design introduces four components—social financing, a sliding dividend cap, employee ownership, and restrictions on complex corporate structures—tied to eligibility for the credit. By altering the incentive structure that currently prioritizes profit maximization over care quality, the proposal offers a path to better align financial practices with social mission. The article contributes to debates on regulating for-profit providers while safeguarding vulnerable populations dependent on Medicare and Medicaid funding.
