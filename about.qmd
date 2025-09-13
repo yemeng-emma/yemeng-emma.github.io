@@ -65,9 +65,9 @@ Master of Laws (LLM) in Commercial Law, 2012
 
 ## Qualifications and Skills
 
-- **Professional qualifications:** Licensed Lawyer in China 
+- **Programming and research:** R, Stata, Stan, Quarto, Python (basic), Qualtrics, Sawtooth Software 
 
-- **Programming and research:** R, Stata, Stan, Quarto, Python (basic), Qualtrics, Sawtooth Software  
+- **Professional qualifications:** Licensed Lawyer in China 
 
 - **Languages:** Mandarin (native), English (proficient), French (basic)  
 
