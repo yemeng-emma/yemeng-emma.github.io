@@ -25,27 +25,25 @@ format: html
 
 - “The Implementation of China’s Overseas NGO Law and the Operating Space for International Civil Society”, with Andrew Heiss, **MPSA** Annual Conference, Chicago, IL, April 2023.
 
-- “Nonprofit Commercialization: Examining Mission-Related and Unrelated Earned Income's Impact on DEI and Performance Outcomes”, ASPA Annual Conference, Virtual, March 2023.
+- “Nonprofit Commercialization: Examining Mission-Related and Unrelated Earned Income's Impact on DEI and Performance Outcomes”, **ASPA** Annual Conference, Virtual, March 2023.
 
-- “Do Social Enterprises Fulfill their Social Promise? Comparing Social Care CICs with other Legal Forms”, with Janelle Kerlin, Georgia State University, ASPA Annual Conference, Virtual, March 2023.
+- “Nonprofit Commercialization: Examining Mission-Related and Unrelated Business Income and Social Performance Outcomes for Arts Organizations”, **ARNOVA** Annual Conference, Raleigh, NC, November 2022.
 
-- “Nonprofit Commercialization: Examining Mission-Related and Unrelated Business Income and Social Performance Outcomes for Arts Organizations”, ARNOVA Annual Conference, Raleigh, NC, November 2022.
+- “Do Social Enterprises Fulfill their Social Promise? Comparing Social Care CICs with other Legal Forms”, with Janelle Kerlin, **ARNOVA** Annual Conference, Raleigh, NC, November 2022.
 
-- “Do Social Enterprises Fulfill their Social Promise? Comparing Social Care CICs with other Legal Forms”, with Janelle Kerlin, Georgia State University, ARNOVA Annual Conference, Raleigh, NC, November 2022.
+- “Getting Causation Right: A Guide to Observational Causal Inference in Nonprofit Studies”, **West Coast Nonprofit Data Conference**, Austin, TX, April 2022.
 
-- “Getting Causation Right: A Guide to Observational Causal Inference in Nonprofit Studies”, West Coast Nonprofit Data Conference, Austin, TX, April 2022.
+- “Analyzing Charities’ Cross-Sector Collaborations in Chinese Charitable Trust Relationships”, **ASPA** Annual Conference, Jacksonville, FL, March 2022.
 
-- “Analyzing Charities’ Cross-Sector Collaborations in Chinese Charitable Trust Relationships”, ASPA Annual Conference, Jacksonville, FL, March 2022.
+- “Competition or Collaboration? Analyzing charities’ roles in charitable trust relationships after the Enactment of China’s Charity Law”, **ARNOVA** Annual Conference, Atlanta, GA, November 2021.
 
-- “Competition or Collaboration? Analyzing charities’ roles in charitable trust relationships after the Enactment of China’s Charity Law”, ARNOVA Annual Conference, Atlanta, GA, November 2021.
+- “Exploring a Policy Mechanism for For-Profit Moderation in Social Care Businesses”, with Janelle Kerlin, Georgia State University, **ARNOVA** Annual Conference, Atlanta, GA, November 2021.
 
-- “Exploring a Policy Mechanism for For-Profit Moderation in Social Care Businesses”, with Janelle Kerlin, Georgia State University, ARNOVA Annual Conference, Atlanta, GA, November 2021.
+- “Effects of the Implementation of China’s Overseas NGO Law and Its Roles in Regulating Overseas NGOs’ Early Responses to COVID 19 in China”, **ISTR** Annual Meeting, Virtual, July 2021.
 
-- “Effects of the Implementation of China’s Overseas NGO Law and Its Roles in Regulating Overseas NGOs’ Early Responses to COVID 19 in China”, ISTR Annual Meeting, Virtually, July 2021.
+- “The Implementation of China’s Overseas NGO Law and Its Regulatory Roles in Early Responses to COVID-19”, **ARNOVA-ASIA** Conference, Virtual, July 2021.
 
-- “The Implementation of China’s Overseas NGO Law and Its Regulatory Roles in Early Responses to COVID-19”, ARNOVA-ASIA Conference, Virtually, July 2021.
-
-- “Isomorphic Process or Not? An Analysis of Social Enterprise Accreditation Policies in China”, ARNOVA Annual Conference, Virtual, November 2020.
+- “Isomorphic Process or Not? An Analysis of Social Enterprise Accreditation Policies in China”, **ARNOVA** Annual Conference, Virtual, November 2020.
 
 ## Seminars and Invited Talks
 
