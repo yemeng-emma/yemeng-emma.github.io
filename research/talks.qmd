@@ -3,15 +3,23 @@ title: "Academic Presentations"
 format: html
 ---
 
+<style>
+/* Remove underline but preserve theme link color */
+main a {
+  text-decoration: none !important;
+}
+</style>
+
+
 ## Conferences
 
 - “Nonprofit Commercialization in England’s Health and Social Care: Impact on Quality Rating and the Access Disparity”, **ASPA** Annual Conference, Washington D. C., April 2025.
 
-- “Clarifying Correlation and Causation: A Guide to Modern Quantitative Causal Inference in Nonprofit Studies”, with [Andrew Heiss](https://www.andrewheiss.com/), **ARNOVA** Annual Conference, Washington D. C., November 2024.([See slides here](https://stats.andrewheiss.com/corrupt-caterpillar/presentations/2024-11-22_arnova/))
+- “Clarifying Correlation and Causation: A Guide to Modern Quantitative Causal Inference in Nonprofit Studies”, with Andrew Heiss, **ARNOVA** Annual Conference, Washington D. C., November 2024. ([See slides here](https://stats.andrewheiss.com/corrupt-caterpillar/presentations/2024-11-22_arnova/)) 
 
 - “Joint Private Provision of Social Good: A Mixed-Method Examination of Nonprofit-Business Collaboration from Multiple Streams”, **AOM**, Chicago, IL, August 2024.
 
-- “Does Ownership Affect Quality in Health and Social Care Provision? Comparing Government-Run Services with Devolved (Spin-out) and Privately Founded Social Enterprises”, with [Janelle Kerlin](https://aysps.gsu.edu/profile/janelle-bassett-kerlin/) and [Kelly Hall](https://www.birmingham.ac.uk/staff/profiles/social-policy/hall-kelly), **PMRC**, Seattle, WA, June 2024.
+- “Does Ownership Affect Quality in Health and Social Care Provision? Comparing Government-Run Services with Devolved (Spin-out) and Privately Founded Social Enterprises”, with Janelle Kerlin and Kelly Hall, **PMRC**, Seattle, WA, June 2024.
 
 - “Nonprofit Commercialization: Examining Mission-Related and Unrelated Business Income and Social Performance Outcomes for Arts Organizations”, **APPAM** Fall Conference, Atlanta, GA, November 2023.
 
