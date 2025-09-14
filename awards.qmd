@@ -1,5 +1,5 @@
 ---
-title: "Academic Honors"
+title: "Grants and Honors"
 format: html
 ---
 
@@ -9,12 +9,21 @@ format: html
 - The Andrew Young School **Excellence in Teaching Policy** Award&nbsp;&nbsp;&nbsp;&nbsp;2024  
 - AOM PNP Section Charles H. Levine Best Conference Paper Award&nbsp;&nbsp;2023  
 
-## Grants  
+## Research Grants  
 
 - The Andrew Young School Dissertation Fellowship ($3000)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2025  
 - Sawtooth Survey Software Academic Grant ($4500 value)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2024  
 - CAAPA Inaugural Ph.D. Research Fellowship ($1000)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2024  
 - The Andrew Young School of Policy Studies Dean’s Fellowship ($8000 × 3 years)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2020–2022  
+
+## Travel Grants  
+
+- The PMRA Meier Travel Inclusion Award&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2024  
+- ASPA Wallace O. Keene Conference Scholarship&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2023  
+- ARNOVA Conference Scholarship&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2022  
+- ASPA Section on Nonprofits (SNP) Travel Scholarship&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2022  
+- ASPA SPOD Section Annual Scholarship&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2022  
+
 
 ## Fellowships  
 
@@ -26,13 +35,6 @@ format: html
 - International Society for Third-Sector Research Ph.D. Fellow&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2021  
 - ARNOVA Graduate Diversity Fellow&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2020  
 
-## Scholarships  
-
-- The PMRA Meier Travel Inclusion Award&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2024  
-- ASPA Wallace O. Keene Conference Scholarship&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2023  
-- ARNOVA Conference Scholarship&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2022  
-- ASPA Section on Nonprofits (SNP) Travel Scholarship&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2022  
-- ASPA SPOD Section Annual Scholarship&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2022  
 
 
 <div class="plaque-container">
