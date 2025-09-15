@@ -200,7 +200,7 @@ ul.task-list li input[type="checkbox"] {
   </ul></li>
   <li><a href="#student-appreciation" id="toc-student-appreciation" class="nav-link" data-scroll-target="#student-appreciation">Student Appreciation</a>
   <ul class="collapse">
-  <li><a href="#cetloe-thank-a-teacher-program-2023" id="toc-cetloe-thank-a-teacher-program-2023" class="nav-link" data-scroll-target="#cetloe-thank-a-teacher-program-2023">CETLOE Thank-a-Teacher Program (2023)</a></li>
+  <li><a href="#cetloe-thank-a-teacher-program" id="toc-cetloe-thank-a-teacher-program" class="nav-link" data-scroll-target="#cetloe-thank-a-teacher-program">CETLOE Thank-a-Teacher Program</a></li>
   </ul></li>
   </ul>
 </nav>
@@ -253,8 +253,8 @@ ul.task-list li input[type="checkbox"] {
 </section>
 <section id="student-appreciation" class="level2">
 <h2 class="anchored" data-anchor-id="student-appreciation">Student Appreciation</h2>
-<section id="cetloe-thank-a-teacher-program-2023" class="level3">
-<h3 class="anchored" data-anchor-id="cetloe-thank-a-teacher-program-2023">CETLOE Thank-a-Teacher Program (2023)</h3>
+<section id="cetloe-thank-a-teacher-program" class="level3">
+<h3 class="anchored" data-anchor-id="cetloe-thank-a-teacher-program">CETLOE Thank-a-Teacher Program</h3>
 <p><em>“Thank you for being so kind and fair to all students. I appreciate your great patience too. It made me feel more relaxed in your class; therefore, I performed better!”</em></p>
 <p><img src="../note.jpg" style="width:70%; display:block; margin:auto; margin-top:1em;"></p>
 
@@ -344,7 +344,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   });
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp('/' + window.location.host + '/');
+      var filterRegex = new RegExp("https:\/\/yemeng-emma\.github\.io");
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }
