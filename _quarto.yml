@@ -1,3 +1,10 @@
+---
+title: "Meng Ye"
+description: "Ph.D. candidate in Public Policy at Georgia State University. My research explores nonprofits, public-private boundaries, and social services."
+keywords: ["public policy", "nonprofits", "research", "Georgia State University", "Meng Ye"]
+---
+
+
 project:
   type: website
   output-dir: docs
