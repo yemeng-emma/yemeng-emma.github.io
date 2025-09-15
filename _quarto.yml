@@ -11,6 +11,10 @@ project:
 
 website:
   title: "Meng Ye"
+  site-url: https://yemeng-emma.github.io
+  description: "Ph.D. Candidate in Public Policy at Georgia State University. Research on nonprofits, public service delivery, and cross-sector boundaries."
+  repo-url: https://github.com/yemeng-emma/yemeng-emma.github.io
+
   bread-crumbs: false
   navbar:
     search: true
