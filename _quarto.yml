@@ -8,7 +8,8 @@ keywords: ["public policy", "nonprofits", "research", "Georgia State University"
 project:
   type: website
   output-dir: docs
-
+  resources:
+    - google8c675794d77252cf.html
 website:
   title: "Meng Ye"
   site-url: https://yemeng-emma.github.io
