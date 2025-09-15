@@ -260,6 +260,24 @@ ul.task-list li input[type="checkbox"] {
 </li>
 <li>Pro Bono Data Analysis and Visualization – China Foundation Center (since 2022)</li>
 </ul>
+<div class="plaque-container">
+<p><img src="nml.png" width="80%"></p>
+<p class="plaque-text">
+2023 NML Reviwer Certificatey
+</p>
+</div>
+<style>
+.plaque-container {
+  text-align: center;       /* center both text and image */
+  margin: 2em 0;            /* vertical spacing around the block */
+}
+
+.plaque-text {
+  font-size: 1em;           /* adjust font size */
+  color: #999999;           /* gray color */
+  margin-bottom: 1em;       /* space between text and image */
+}
+</style>
 
 
 </section>
@@ -346,7 +364,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   });
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp('/' + window.location.host + '/');
+      var filterRegex = new RegExp("https:\/\/yemeng-emma\.github\.io");
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }
