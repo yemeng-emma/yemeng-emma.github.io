@@ -9,6 +9,9 @@ format: html
 
 - **PMAP 3231: Nonprofit Leadership and Management**  
   Instructor, Fall 2024 (in person)
+  
+- **PMAP 8541: Coding in R for Policy Analytics**  
+  Instructor, Scheduled for Spring 2026 (online asynchronous)
 
 ## Guest Lectures
 - **PMAP 3210: Introduction to Nonprofits**  

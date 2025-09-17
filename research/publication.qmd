@@ -4,11 +4,11 @@ format: html
 ---
 
 ## Peer-Reviewed Journal Articles
-- Kerlin, J., **Ye, M.**, & Hall, K. (2025). Do social enterprises fulfill their social promise? Comparing the quality outcomes of social care CICs with other sectors. (Forthcoming, *Public Performance & Management Review*). (**Co-first author with Kerlin**).
+- Kerlin, J. A., **Ye, M.**, & Hall, K. (2025). Do social enterprises fulfill their social promise? Comparing the quality outcomes of social care CICs with other sectors. (Forthcoming, *Public Performance & Management Review*). (**Co-first author with Kerlin**).
 
-- Kerlin, J., **Ye, M.**, & Chen, W. (2023). A tax credit proposal for profit moderation and social mission maximization in long-term residential care businesses. *Nonprofit Policy Forum*, 14(1), 77–97.
+- Kerlin, J. A., **Ye, M.**, & Chen, W. (2023). A tax credit proposal for profit moderation and social mission maximization in long-term residential care businesses. *Nonprofit Policy Forum*, 14(1), 77–97.
 
-- Kerlin, J., **Ye, M.**, & Hall, K. (2023). Do social enterprises fulfill their social promise? Quality of social care CICs and other legal forms. [*Academy of Management Proceedings*](), 2023(1), 15284. (**2023 AOM PNP Best Conference Paper**).
+- Kerlin, J. A., **Ye, M.**, & Hall, K. (2023). Do social enterprises fulfill their social promise? Quality of social care CICs and other legal forms. [*Academy of Management Proceedings*](), 2023(1), 15284. (**2023 AOM PNP Best Conference Paper**).
 
 - **Ye, M.** (2021). Building an enabling legal environment: Laws and policies on social enterprises in China. [*Journal of Asian Public Policy*](), 14(2), 182–199.
 
@@ -18,12 +18,12 @@ format: html
 - Kerlin, J. A., & **Ye, M.** (2023). Commercialism. In *Elgar Encyclopedia of Nonprofit Management, Leadership and Governance* (pp. 105–109). Edward Elgar Publishing.
 
 ## Other Journal Articles
-- Kerlin, J., & **Ye, M.** (forthcoming). Social enterprise in Asia: A new legal form. *Asia Pacific Law Review.* (Book Review).
+- Kerlin, J. A., & **Ye, M.** (forthcoming). Social enterprise in Asia: a new legal form: by Ernest Lim, Cambridge, Cambridge University Press, 2023, 350 pp., USD110.00 (hardback), ISBN 978-1-108-83815-3. *Asia Pacific Law Review.*, 1–5. (Book Review).
 
 - Lu, E., Ma, L., **Ye, M.**, Shi, Y., Chen, G., Hawes, D., … & Wang, C. (2025). Reimagining the future of IJPA: A vision for 2025 and beyond. *International Journal of Public Administration, 1–4.* (Editorial).
 
 ## Manuscripts R&R or Under Review
-- Hall, K., Kerlin, J., & **Ye, M.** (Revise & Resubmit). Government versus social enterprise: Comparing the quality of government-run and social enterprise spin-out organizations in English health and social care. *Journal of Social Policy*.
+- Hall, K., Kerlin, J. A., & **Ye, M.** (Revise & Resubmit). Government versus social enterprise: Comparing the quality of government-run and social enterprise spin-out organizations in English health and social care. *Journal of Social Policy*.
 
 - **Ye, M.**, & Heiss, A. (Under review). Enforcing boundaries: China’s Overseas NGO Law and operational constraints for global civil society. *Nonprofit and Voluntary Sector Quarterly*.
 
