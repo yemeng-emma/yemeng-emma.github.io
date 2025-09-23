@@ -8,19 +8,21 @@ format: html
 
 - Kerlin, J. A., **Ye, M.**, & Chen, W. (2023). A tax credit proposal for profit moderation and social mission maximization in long-term residential care businesses. *Nonprofit Policy Forum*, 14(1), 77–97.
 
-- Kerlin, J. A., **Ye, M.**, & Hall, K. (2023). Do social enterprises fulfill their social promise? Quality of social care CICs and other legal forms. [*Academy of Management Proceedings*](), 2023(1), 15284. (**2023 AOM PNP Best Conference Paper**).
+- Kerlin, J. A., **Ye, M.**, & Hall, K. (2023). Do social enterprises fulfill their social promise? Quality of social care CICs and other legal forms. [*Academy of Management Proceedings*](https://journals.aom.org/doi/pdf/10.5465/AMPROC.2023.155bp?download=true), 2023(1), 15284. (**2023 AOM PNP Best Conference Paper**).
 
-- **Ye, M.** (2021). Building an enabling legal environment: Laws and policies on social enterprises in China. [*Journal of Asian Public Policy*](), 14(2), 182–199.
-
-## Book Chapters
-- **Ye, M.** (2023). Social enterprise in China. In *The Social Enterprise: A New Form of the Business Enterprise?* (pp. 153–180). Intersentia Publishers.
-
-- Kerlin, J. A., & **Ye, M.** (2023). Commercialism. In *Elgar Encyclopedia of Nonprofit Management, Leadership and Governance* (pp. 105–109). Edward Elgar Publishing.
+- **Ye, M.** (2021). Building an enabling legal environment: Laws and policies on social enterprises in China. [*Journal of Asian Public Policy*](https://www.tandfonline.com/doi/abs/10.1080/17516234.2020.1824263), 14(2), 182–199.
 
 ## Other Journal Articles
-- Kerlin, J. A., & **Ye, M.** (forthcoming). Social enterprise in Asia: a new legal form: by Ernest Lim, Cambridge, Cambridge University Press, 2023, 350 pp., USD110.00 (hardback), ISBN 978-1-108-83815-3. *Asia Pacific Law Review.*, 1–5. (Book Review).
+- Kerlin, J. A., & **Ye, M.**. Social enterprise in Asia: a new legal form: by Ernest Lim, Cambridge, Cambridge University Press, 2023, 350 pp., USD110.00 (hardback), ISBN 978-1-108-83815-3. [*Asia Pacific Law Review.*](https://www.tandfonline.com/doi/abs/10.1080/10192557.2025.2556089), 1–5. (Book Review).
 
 - Lu, E., Ma, L., **Ye, M.**, Shi, Y., Chen, G., Hawes, D., … & Wang, C. (2025). Reimagining the future of IJPA: A vision for 2025 and beyond. *International Journal of Public Administration, 1–4.* (Editorial).
+
+## Book Chapters
+- **Ye, M.** (2023). [Social enterprise in China](https://www.researchgate.net/profile/Meng-Ye-13/publication/377806659_SOCIAL_ENTERPRISE_IN_CHINA/links/65b925161e1ec12eff64323c/SOCIAL-ENTERPRISE-IN-CHINA.pdf). In *The Social Enterprise: A New Form of the Business Enterprise?* (pp. 153–180). Intersentia Publishers.
+
+- Kerlin, J. A., & **Ye, M.** (2023). [Commercialism](https://www.elgaronline.com/display/book/9781800880092/ch35.xml). In *Elgar Encyclopedia of Nonprofit Management, Leadership and Governance* (pp. 105–109). Edward Elgar Publishing.
+
+- **Ye, M.** (editing). Unrelated Business Income Tax (UBIT). In *Encyclopedia of Social Enterprise*. Edward Elgar Publishing. 
 
 ## Manuscripts R&R or Under Review
 - Hall, K., Kerlin, J. A., & **Ye, M.** (Revise & Resubmit). Government versus social enterprise: Comparing the quality of government-run and social enterprise spin-out organizations in English health and social care. *Journal of Social Policy*.
