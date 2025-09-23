@@ -46,7 +46,7 @@ format: html
 <div class="plaque-container">
   <img src="nml.png" width="80%">
   
-  <p class="plaque-text">2023 NML Reviwer Certificatey</p>
+  <p class="plaque-text">2023 NML Reviwer Certificate</p>
 </div>
 
 <style>
