@@ -59,10 +59,6 @@ website:
        href: https://scholar.google.com/citations?user=w8lJ-jEAAAAJ&hl=en
        aria-label: google scholar
        
-     - icon: twitter
-       href: https://x.com/MengYe_Emma
-       aria-label: X
-       
      - icon: envelope
        href: "mailto:mye2@gsu.edu"
        aria-label: email
