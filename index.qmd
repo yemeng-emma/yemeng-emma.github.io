@@ -28,7 +28,7 @@ main a {
 
 </style>
 ```
-<img src="meng26.png" alt="Meng Ye headshot" class="headshot"/>
+<img src="meng2026.png" alt="Meng Ye headshot" class="headshot"/>
 
 [Hello! Thank you for visiting my website.]{.greeting}
 
