@@ -18,18 +18,22 @@ format: html
 - Lu, E., Ma, L., **Ye, M.**, Shi, Y., Chen, G., Hawes, D., … & Wang, C. (2025). Reimagining the future of IJPA: A vision for 2025 and beyond. *International Journal of Public Administration, 1–4.* (Editorial).
 
 ## Book Chapters
-- **Ye, M.** (2023). [Social enterprise in China](https://www.researchgate.net/profile/Meng-Ye-13/publication/377806659_SOCIAL_ENTERPRISE_IN_CHINA/links/65b925161e1ec12eff64323c/SOCIAL-ENTERPRISE-IN-CHINA.pdf). In *The Social Enterprise: A New Form of the Business Enterprise?* (pp. 153–180). Intersentia Publishers.
 
-- Kerlin, J. A., & **Ye, M.** (2023). [Commercialism](https://www.elgaronline.com/display/book/9781800880092/ch35.xml). In *Elgar Encyclopedia of Nonprofit Management, Leadership and Governance* (pp. 105–109). Edward Elgar Publishing.
+- **Ye, M.** (2026). [Social enterprises](https://www.taylorfrancis.com/chapters/edit/10.4324/9781003616542-17/social-enterprises-meng-ye). In Q. Dong & J. Lu (Eds.), *Nonprofit organization management in China* (pp. 350–382). Routledge.
+
+- **Ye, M.** (2023). [Social enterprise in China](https://www.researchgate.net/profile/Meng-Ye-13/publication/377806659_SOCIAL_ENTERPRISE_IN_CHINA/links/65b925161e1ec12eff64323c/SOCIAL-ENTERPRISE-IN-CHINA.pdf). In D. Brakman Reiser, S. A. Dean, & G. Lideikyte Huber (Eds.), *Social enterprise law: A multijurisdictional comparative review* (1st ed., pp. 153–180). Larcier‑Intersentia.
+
+
+- Kerlin, J. A., & **Ye, M.** (2023). [Commercialism](https://www.elgaronline.com/display/book/9781800880092/ch35.xml). In K. F. Kearns & W. Wang (Eds.), *Elgar Encyclopedia of Nonprofit Management, Leadership and Governance* (pp. 105–109). Edward Elgar Publishing.
 
 - **Ye, M.** (editing). Unrelated Business Income Tax (UBIT). In *Encyclopedia of Social Enterprise*. Edward Elgar Publishing. 
 
 ## Manuscripts R&R or Under Review
-- Hall, K., Kerlin, J. A., & **Ye, M.** (Revise & Resubmit). Government versus social enterprise: Comparing the quality of government-run and social enterprise spin-out organizations in English health and social care. *Journal of Social Policy*.
+- Hall, K., Kerlin, J. A., & **Ye, M.** (forthcoming). Government versus social enterprise: Comparing the quality of government-run and social enterprise spin-out organizations in English health and social care. *Journal of Social Policy*.
 
 - Sun, J., Shi, Y., & **Ye, M.** (Under review). Unlocking the impact of Charity Law on commercialization of charitable organizations: Evidence from a quasi-experiment design. *Journal of Chinese Governance*.
 
-- **Ye, M.**, Lu, J., & Dong, Q. (under review). Why Do Nonprofits Invest? Exploring Financial and Political Drivers in Chinese Foundations. *Nonprofit and Voluntary Sector Quarterly*.
+- **Ye, M.**, Lu, J., & Dong, Q. (conditional acceptance). Why Do Nonprofits Invest? Exploring Financial and Political Drivers in Chinese Foundations. *Nonprofit and Voluntary Sector Quarterly*.
 
 
 ## Work in Progress
