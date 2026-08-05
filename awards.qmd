@@ -27,6 +27,8 @@ format: html
 
 ## Fellowships  
 
+- ARNOVA Emerging Scholar;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2026 
+- Mercatus Fellowship;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2026 
 - ARNOVA Doctoral Fellowship&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2025  
 - NML-ESS Nonprofit Early Scholars Fellowship&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2025  
 - Summer Institute of **Computational Social Science** Fellowship&nbsp;&nbsp;&nbsp;&nbsp;2024  
