@@ -13,6 +13,12 @@ main a {
 
 ## Conferences
 
+- “How Do Individual Donors Respond to Nonprofit Commercial Revenue? Evidence from a Conjoint Experiment”, **ASPA** Annual Conference, Hollywood, CA, 2026.
+
+- “How Resilient are Social Enterprises Across Time? Quality Comparison of Social Care Ownership Models 2015–2025”, with Janelle Kerlin and Kelly Hall, **ARNOVA** Annual Conference, Indianapolis, IN, November 2025.
+
+- “How Does Reduced Reporting Burden in 990-EZ Impact Nonprofits’ Financial Health? A Regression Discontinuity Design”, with Andrew Heiss, **APPAM** Fall Research Conference, Seattle, WA, November 2025.
+
 - “Nonprofit Commercialization in England’s Health and Social Care: Impact on Quality Rating and the Access Disparity”, **ASPA** Annual Conference, Washington D. C., April 2025.
 
 - “Clarifying Correlation and Causation: A Guide to Modern Quantitative Causal Inference in Nonprofit Studies”, with Andrew Heiss, **ARNOVA** Annual Conference, Washington D. C., November 2024. ([See slides here](https://stats.andrewheiss.com/corrupt-caterpillar/presentations/2024-11-22_arnova/)) 

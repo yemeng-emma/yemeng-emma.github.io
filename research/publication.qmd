@@ -5,7 +5,7 @@ format: html
 
 ## Journal Articles
 
-- **Ye, M.**, Lu, J., & Dong, Q. (2026). Why Do Nonprofits Invest? Exploring Financial and Political Drivers in Chinese Foundations. *Nonprofit and Voluntary Sector Quarterly* (forthcoming).
+- **Ye, M.**, Lu, J., & Dong, Q. (2026). Why Do Nonprofits Invest? Exploring Financial and Political Drivers in Chinese Foundations. [*Nonprofit and Voluntary Sector Quarterly*](https://doi.org/10.1177/08997640261477718). Published online 2026:9-1.
 
 - Hall, K., Kerlin, J. A., & **Ye, M.** (2026). Government versus social enterprise: Comparing the quality of government-run and social enterprise spin-out organizations in English health and social care. [*Journal of Social Policy*](https://www.cambridge.org/core/journals/journal-of-social-policy/article/government-versus-social-enterprise-comparing-the-quality-of-governmentrun-and-social-enterprise-spinout-organisations-in-english-health-and-social-care/EFFBE43A5B9B42D827DB6B50A015FC0F#article). Published online 2026:1-19.
 
@@ -31,23 +31,26 @@ format: html
 
 - **Ye, M.** (editing). Unrelated Business Income Tax (UBIT). In *Encyclopedia of Social Enterprise*. Edward Elgar Publishing. 
 
+
 ## Manuscripts R&R or Under Review
+
+- **Ye, M.** (R & R). Nonprofit commercialization and its implications for social service performance and accessibility: Comparing mission-related and unrelated business income. *Nonprofit Management & Leadership*.
 
 - Sun, J., Shi, Y., & **Ye, M.** (R & R). Unlocking the impact of Charity Law on commercialization of charitable organizations: Evidence from a quasi-experiment design. *Nonprofit Policy Forum*.
 
-- **Ye, M.** (R & R). How does commercialization impact nonprofit performance and service accessibility? Differentiating mission-related and unrelated earned income. *Nonprofit Management and Leadership* (Selected for the **2025 NML-ESS Nonprofit Early Scholars Fellowship**).
+- Ke, L., & **Ye, M.** (under review). Does rising tourism lift all boats? Tourism demand shocks and arts nonprofit commercial revenues. *Journal of Urban Affairs*.
 
 
 ## Work in Progress
 
-- **Ye, M.**, & Heiss, A. (preparing for submission). Enforcing boundaries: China’s Overseas NGO Law and operational constraints for global civil society. 
+- **Ye, M.**, & Heiss, A. (preparing for submission). Enforcing boundaries: China’s Overseas NGO Law and operational constraints for global civil society.
 
-- Heiss, A., & **Ye, M.** (preparing for submission). Clarifying correlation and causation: A guide to modern quantitative causal inference in nonprofit studies. (**Equal authorship**)
+- **Ye, M.** (preparing for submission). Nonprofit commercialization in England’s health and social care: Impact on quality rating and the access disparity. (Selected for the **2025 ARNOVA Doctoral Seminar**).
 
-- **Ye, M.** (writing). Nonprofit commercialization in England’s health and social care: Impact on quality rating and the access disparity. (Selected for the **2025 ARNOVA Doctoral Seminar**).
+- **Ye, M.** (preparing for submission). How do individual donors respond to nonprofit commercialization and related context and framing: A conjoint survey experiment study. (Selected for the **2026 ARNOVA Emerging Scholars Roundtable**).
 
-- **Ye, M.** (writing). How do individual donors respond to nonprofit commercialization and related context and framing: A conjoint survey experiment study.
+- Heiss, A., & **Ye, M.** (preparing for submission). Clarifying correlation and causation: A guide to modern quantitative causal inference in nonprofit studies.
 
-- Ke, L., & **Ye, M.** (writing). Does commercialization improve nonprofits’ financial health? A quasi-experimental design.
+- Ke, L., & **Ye, M.** (writing). Can commercialization improve nonprofit financial health? Evidence from the art industry.
 
-- Heiss, A., & **Ye, M.** (writing). How does reduced reporting burden in 990-EZ impact nonprofits’ financial health? (**Equal authorship**)
+- Heiss, A., & **Ye, M.** (writing). How does reduced reporting burden in 990-EZ impact nonprofits’ financial health?
