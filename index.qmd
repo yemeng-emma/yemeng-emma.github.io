@@ -8,9 +8,9 @@ toc: false
 /* Photo only: keep float layout; add top space so the image visually aligns with the text */
 .headshot {
   float: left;
-  width: 297px;
+  width: 288px;
   height: auto;
-  margin: 1.4rem 2rem 1.5rem 0;
+  margin: 1.4rem 2rem 0.1rem 0;
   border-radius: 8px;
 }
 
@@ -34,7 +34,7 @@ main a {
 
 I am Meng Ye, a Ph.D. in Public Policy from Georgia State University's Andrew Young School of Policy Studies. [My research](/research/pipeline.qmd) examines the roles of public and nonprofit organizations amid blurring sector boundaries, including nonprofit commercialization, government retrenchment, and cross-sector collaboration. I also study global civil society and nonprofit regulation.
 
-My work has appeared in [*Nonprofit and Voluntary Sector Quarterly*](https://doi.org/10.1177/08997640261477718), [*Public Performance & Management Review*](https://doi.org/10.1080/15309576.2025.2593642), [*Journal of Social Policy*](https://ddoi:10.1017/S0047279426101482), [*Journal of Asian Public Policy*](https://www.tandfonline.com/doi/abs/10.1080/17516234.2020.1824263), [*Nonprofit Policy Forum*](https://www.degruyterbrill.com/document/doi/10.1515/npf-2022-0014/html), and [*Academy of Management Proceedings*](https://journals.aom.org/doi/epdf/10.5465/AMPROC.2023.155bp), among others. My research has been recognized by the [AOM PNP Section Best Conference Paper Award](https://www.linkedin.com/posts/rebeccatekula_aom2023-activity-7079936050055245824-ZdjA?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAgcY3oBCh29bxUuNTZETfJaqIzYHSXe8Vc) and the ARNOVA NPPFM Section Woods Bowman Student Award, and supported by multiple [academic grants](awards.qmd).
+My work has appeared in [*Nonprofit and Voluntary Sector Quarterly*](https://doi.org/10.1177/08997640261477718), [*Public Performance & Management Review*](https://doi.org/10.1080/15309576.2025.2593642), [*Journal of Social Policy*](https://ddoi:10.1017/S0047279426101482), [*Journal of Asian Public Policy*](https://www.tandfonline.com/doi/abs/10.1080/17516234.2020.1824263), and [*Nonprofit Policy Forum*](https://www.degruyterbrill.com/document/doi/10.1515/npf-2022-0014/html), among others. My research has been recognized by the 2026 ARNOVA Gabriel G. Rudney Memorial Award for *Outstanding Dissertation*, the [AOM PNP Section Best Conference Paper Award](https://www.linkedin.com/posts/rebeccatekula_aom2023-activity-7079936050055245824-ZdjA?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAgcY3oBCh29bxUuNTZETfJaqIzYHSXe8Vc), and the ARNOVA NPPFM Section Woods Bowman Student Award, and supported by multiple [academic grants](awards.qmd).
 
 I am grateful for the mentorship of a vibrant research community, including the [APPAM Equity & Inclusion Fellowship](https://www.appam.org/about-appam/awards/2022-equity-inclusion-fellowship-student-recipients/), ARNOVA Doctoral Seminar and Emerging Scholar Fellowships, NML-ESS Nonprofit Early Scholars Fellowship, and the Mercatus Fellowship, and I strive to give back by serving as [Editorial Manager of the *International Journal of Public Administration*](https://www.tandfonline.com/journals/lpad20/about-this-journal#editorial-board), as a member of the [ARNOVA Development Committee](https://www.arnova.org/committees/), and as a peer reviewer for several journals.
 
